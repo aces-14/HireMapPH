@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python -m venv \"d:\\\\projects\\\\HireMapPH\\\\.venv\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"d:\\\\projects\\\\HireMapPH\\\\.github\\\\workflows\")"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body, #root { height: 100%; margin: 0; }
+  body {
+    background: #FAFAF8;
+    color: #2C2416;
+    font-family: "Inter", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* Scrollbar styling */
+  ::-webkit-scrollbar       { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: #F5F0E8; }
+  ::-webkit-scrollbar-thumb { background: #D0C8BC; border-radius: 3px; }
+}
+
+@layer components {
+  .card {
+    @apply bg-white border border-border rounded-lg p-4
+           transition-shadow duration-200;
+  }
+  .card-hover {
+    @apply card hover:shadow-md hover:-translate-y-0.5 transition-all duration-200;
+  }
+  .tag {
+    @apply inline-block bg-amber-pale text-amber border border-amber-light
+           text-xs font-medium px-2 py-0.5 rounded-full
+           hover:bg-amber hover:text-white transition-colors duration-150 cursor-default;
+  }
+  .btn-primary {
+    @apply bg-amber text-white font-medium px-5 py-2 rounded-lg
+           hover:bg-amber/90 active:scale-95 transition-all duration-150 text-sm;
+  }
+  .section-label {
+    @apply text-xs font-semibold text-muted uppercase tracking-widest mb-2;
+  }
+}
+
+/* pointer cursor on Plotly geo scatter bubbles */
+.js-plotly-plot .geo .point,
+.js-plotly-plot .geo .point path {
+  cursor: pointer !important;
+}

@@ -1,0 +1,61 @@
+# ── Python ───────────────────────────────────────────────
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.pytest_cache/
+
+# ── Environment variables ─────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── Data files ────────────────────────────────────────────
+# Ignored locally — GitHub Actions uses `git add -f data/` to force-commit after each run.
+data/*.parquet
+data/insights.json
+!data/.gitkeep
+
+# ── Frontend ──────────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/coverage/
+
+# ── Streamlit (retired — replaced by React, ADR-020) ──────
+app/
+.streamlit/
+
+# ── IDE ───────────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# ── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ──────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Railway ───────────────────────────────────────────────
+.railway/
+
+# ── Planning docs ─────────────────────────────────────────
+# Tracked locally for portfolio/interview prep; not in the public repo.
+hiremap_ph_overview.md
+roadmap.md
+project_log.md
+project_blog.md
+interview_notes.md
+architecture_decisions.md

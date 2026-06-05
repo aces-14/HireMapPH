@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(New-Item -ItemType Directory -Force \"d:\\\\projects\\\\HireMapPH\\\\backend\\\\routers\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"d:\\\\projects\\\\HireMapPH\\\\tests\")",
+      "PowerShell(Move-Item \"d:\\\\projects\\\\HireMapPH\\\\test_api.py\" \"d:\\\\projects\\\\HireMapPH\\\\tests\\\\test_api.py\")"
+    ]
+  }
+}

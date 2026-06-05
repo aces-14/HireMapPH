@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-06-05",
+  "fastest_growing_roles": [
+    {
+      "role": "Data Analyst",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "IT Software Engineer II - Digital Product Design",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Software Engineer II AI & Platform Engineering",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Assistant Manager (Insurance Process Operations)",
+      "change_pct": 0,
+      "city": "Manila"
+    }
+  ],
+  "most_in_demand_skills": [
+    "excel",
+    "sql",
+    "python",
+    "react",
+    "html",
+    "aws",
+    "ci/cd",
+    "agile",
+    "azure",
+    "docker",
+    "tableau",
+    "power bi"
+  ],
+  "top_hiring_cities": [
+    {
+      "city": "Manila",
+      "count": 58,
+      "change_pct": 0
+    },
+    {
+      "city": "Philippines",
+      "count": 20,
+      "change_pct": 0
+    },
+    {
+      "city": "Taguig",
+      "count": 10,
+      "change_pct": 0
+    },
+    {
+      "city": "Pasig",
+      "count": 4,
+      "change_pct": 0
+    },
+    {
+      "city": "Cebu City",
+      "count": 1,
+      "change_pct": 0
+    }
+  ],
+  "notable_shifts": [
+    "Increased demand for remote work with 26% of listings available remotely",
+    "Skills in data analysis and software development remain in high demand",
+    "Manila continues to be the top hiring city"
+  ],
+  "salary_highlights": [],
+  "summary_text": "The Philippine job market remains competitive, with Manila being the top hiring city and data analysis and software development skills in high demand. With 26% of listings available remotely, flexibility is becoming increasingly important for job seekers."
+}

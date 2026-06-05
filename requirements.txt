@@ -1,0 +1,21 @@
+# --- Data pipeline ---
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+pandas==2.2.3
+pyarrow==18.1.0
+python-dotenv==1.0.1
+
+# --- Geocoding ---
+geopy==2.4.1
+
+# --- AI ---
+groq==0.13.0
+
+# --- Backend (Phase 2) ---
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+
+# --- Dev ---
+pytest==8.3.4
+httpx==0.28.1

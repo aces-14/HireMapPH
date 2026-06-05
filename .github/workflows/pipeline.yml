@@ -1,0 +1,38 @@
+name: Daily Data Pipeline
+
+on:
+  schedule:
+    # 6AM PHT = 10PM UTC (PHT is UTC+8)
+    - cron: "0 22 * * *"
+  workflow_dispatch: # allow manual trigger from GitHub UI
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python -m pipeline.run
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f data/
+          git diff --staged --quiet || git commit -m "chore: daily pipeline run $(date -u +%Y-%m-%d)"
+          git push
