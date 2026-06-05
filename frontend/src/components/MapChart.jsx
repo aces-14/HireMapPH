@@ -159,21 +159,29 @@ export default function MapChart({ mapData = [] }) {
       // Native click detection: zoom if mouseup is < 5px from mousedown (not a drag)
       // plotly_click is swallowed by the geo pan handler — native events bypass that
       let mdx = 0, mdy = 0
-      el.addEventListener("mousedown", (e) => {
-        mdx = e.clientX
-        mdy = e.clientY
-      })
+      const doZoom = () => {
+        if (!hoveredCityRef.current) return
+        const { lat, lon } = hoveredCityRef.current
+        window.Plotly.relayout(el, {
+          "geo.fitbounds": false,
+          "geo.lataxis.range": [lat - 2, lat + 2],
+          "geo.lonaxis.range": [lon - 3, lon + 3],
+        })
+        setZoomed(true)
+      }
+      el.addEventListener("mousedown", (e) => { mdx = e.clientX; mdy = e.clientY })
       el.addEventListener("mouseup", (e) => {
-        if (Math.abs(e.clientX - mdx) < 5 &&
-            Math.abs(e.clientY - mdy) < 5 &&
-            hoveredCityRef.current) {
-          const { lat, lon } = hoveredCityRef.current
-          window.Plotly.relayout(el, {
-            "geo.fitbounds": false,
-            "geo.lataxis.range": [lat - 2, lat + 2],
-            "geo.lonaxis.range": [lon - 3, lon + 3],
-          })
-          setZoomed(true)
+        if (Math.abs(e.clientX - mdx) < 5 && Math.abs(e.clientY - mdy) < 5) doZoom()
+      })
+      // Touch support — touchstart/touchend for mobile tap-to-zoom
+      el.addEventListener("touchstart", (e) => {
+        if (e.touches.length === 1) { mdx = e.touches[0].clientX; mdy = e.touches[0].clientY }
+      }, { passive: true })
+      el.addEventListener("touchend", (e) => {
+        if (e.changedTouches.length === 1) {
+          const dx = Math.abs(e.changedTouches[0].clientX - mdx)
+          const dy = Math.abs(e.changedTouches[0].clientY - mdy)
+          if (dx < 10 && dy < 10) doZoom()
         }
       })
     })
@@ -220,7 +228,7 @@ export default function MapChart({ mapData = [] }) {
              className="absolute bottom-3 left-1/2 -translate-x-1/2 z-10
                         bg-white/80 backdrop-blur-sm border border-border
                         text-xs text-muted px-3 py-1.5 rounded-full whitespace-nowrap">
-          Click a city bubble to zoom in
+          Tap a city bubble to zoom in
         </div>
       )}
     </div>

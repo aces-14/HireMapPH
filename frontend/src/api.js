@@ -16,6 +16,6 @@ export const api = {
   jobs:     (p = {}) => get("/jobs", p),
   trending: ()       => get("/trending"),
   salary:   (p = {}) => get("/salary", p),
-  insights:  ()       => get("/insights"),
-  skillGap:  (p = {}) => get("/skill-gap", p),
+  insights: ()       => get("/insights"),
+  skillGap: (p = {}) => get("/skill-gap", p),
 }

@@ -26,36 +26,40 @@ export default function Landing() {
   const dataDate    = health?.last_updated?.slice(0, 10) ?? null
 
   return (
-    <div className="h-screen bg-cream flex flex-col overflow-hidden">
+    <div className="min-h-screen bg-cream flex flex-col">
 
       {/* Nav */}
-      <nav className="px-8 py-4 flex items-center justify-between border-b border-border bg-white shrink-0">
-        <div className="flex items-center gap-3">
-          <Logo size={36} />
+      <nav className="px-4 sm:px-8 py-3 sm:py-4 flex items-center justify-between
+                      border-b border-border bg-white shrink-0 sticky top-0 z-20">
+        <div className="flex items-center gap-2 sm:gap-3">
+          <Logo size={32} />
           <div>
-            <p className="font-semibold text-ink text-base leading-tight tracking-tight">
+            <p className="font-semibold text-ink text-sm sm:text-base leading-tight tracking-tight">
               HireMap <span className="text-amber">PH</span>
             </p>
-            <p className="text-xs text-muted leading-none">Philippine job intelligence</p>
+            <p className="text-xs text-muted leading-none hidden sm:block">Philippine job intelligence</p>
           </div>
         </div>
-        <Link to="/dashboard" className="btn-primary">Open Dashboard</Link>
+        <Link to="/dashboard" className="btn-primary text-xs sm:text-sm px-3 sm:px-5 py-1.5 sm:py-2">
+          Open Dashboard
+        </Link>
       </nav>
 
       {/* Body */}
-      <div className="flex-1 flex flex-col items-center justify-center px-8 gap-5 overflow-hidden">
+      <div className="flex-1 flex flex-col items-center justify-center
+                      px-4 sm:px-8 gap-4 sm:gap-5 py-8 sm:py-12">
 
         {/* Live badge */}
         <div className="inline-flex items-center gap-2 bg-amber-pale border border-amber-light
                         rounded-full px-3 py-1 text-xs text-amber font-medium">
           <span className="w-1.5 h-1.5 rounded-full bg-amber animate-pulse" />
           Live · {health?.total_active_jobs?.toLocaleString() ?? "—"} listings
-          {dataDate && <span className="opacity-60"> · {dataDate}</span>}
+          {dataDate && <span className="opacity-60 hidden sm:inline"> · {dataDate}</span>}
         </div>
 
         {/* Hero */}
-        <div className="text-center max-w-xl">
-          <h1 className="font-display text-5xl text-ink leading-[1.1] mb-2">
+        <div className="text-center max-w-xl px-2">
+          <h1 className="font-display text-4xl sm:text-5xl text-ink leading-[1.1] mb-2">
             See where the jobs are<br />
             <em className="text-amber not-italic">in the Philippines.</em>
           </h1>
@@ -65,14 +69,15 @@ export default function Landing() {
         </div>
 
         {/* CTA */}
-        <Link to="/dashboard" className="btn-primary px-8 py-3 text-base rounded-xl shadow-sm">
+        <Link to="/dashboard"
+              className="btn-primary px-6 sm:px-8 py-2.5 sm:py-3 text-sm sm:text-base rounded-xl shadow-sm">
           Explore the map →
         </Link>
 
         {/* How it works */}
         <div className="w-full max-w-2xl">
           <p className="section-label text-center mb-3">How it works</p>
-          <div className="grid grid-cols-3 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             {[
               { n: "1", title: "Collect", body: "Daily scrape from DOLE, Kalibrr, and JSearch" },
               { n: "2", title: "Map",     body: "Geocoded by city and region across the PH" },
@@ -96,7 +101,7 @@ export default function Landing() {
         {hasInsights && (
           <div className="w-full max-w-2xl">
             <p className="section-label text-center mb-3">Today's highlights</p>
-            <div className="grid grid-cols-3 gap-3">
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
               {topRole && (
                 <div className="bg-white border border-border rounded-xl p-4">
                   <p className="section-label mb-1">Top role</p>
@@ -126,7 +131,7 @@ export default function Landing() {
       </div>
 
       {/* Footer */}
-      <div className="px-8 py-3 border-t border-border text-center text-xs text-muted shrink-0">
+      <div className="px-4 sm:px-8 py-3 border-t border-border text-center text-xs text-muted shrink-0">
         Data: DOLE Phil-JobNet · Kalibrr · JSearch · Portfolio project
       </div>
     </div>

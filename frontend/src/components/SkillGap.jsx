@@ -44,7 +44,7 @@ function JobRef({ job }) {
 }
 
 function MatchBar({ matched, total }) {
-  const pct  = total === 0 ? 0 : Math.round((matched / total) * 100)
+  const pct   = total === 0 ? 0 : Math.round((matched / total) * 100)
   const color = pct >= 70 ? "bg-green-500" : pct >= 40 ? "bg-amber" : "bg-red-400"
   const label = pct >= 70 ? "Strong match" : pct >= 40 ? "Partial match" : "Needs work"
   return (
@@ -88,7 +88,7 @@ export default function SkillGap() {
       setRoleData(skillData)
       setJobs(jobsData?.results || [])
     } catch {
-      setError("Could not fetch data.")
+      setError("Could not fetch data. Make sure the backend is running.")
     } finally {
       setLoading(false)
     }
@@ -97,19 +97,18 @@ export default function SkillGap() {
   const mySkillsSet = new Set(
     myInput.split(",").map(s => s.trim().toLowerCase()).filter(Boolean)
   )
-  const have     = (roleData?.top_skills || []).filter(s =>  mySkillsSet.has(s.skill))
-  const missing  = (roleData?.top_skills || []).filter(s => !mySkillsSet.has(s.skill))
-  const topLearn = missing.slice(0, 5)
+  const have       = (roleData?.top_skills || []).filter(s =>  mySkillsSet.has(s.skill))
+  const missing    = (roleData?.top_skills || []).filter(s => !mySkillsSet.has(s.skill))
+  const topLearn   = missing.slice(0, 5)
   const hasResults = roleData && roleData.total_postings > 0
+  const matchedJobs = jobs
 
   return (
-    // Two-column layout: left = inputs + results, right = required skills + jobs
-    <div className={`h-full ${hasResults ? "grid grid-cols-[1fr_1.4fr] gap-5" : "flex items-start justify-center"}`}>
+    <div className={hasResults ? "grid grid-cols-1 lg:grid-cols-[1fr_1.4fr] gap-5" : "flex items-start justify-center"}>
 
       {/* ── LEFT: form + comparison results ── */}
-      <div className="flex flex-col gap-4 overflow-y-auto">
+      <div className="flex flex-col gap-4">
 
-        {/* Form */}
         <div className="card flex flex-col gap-3">
           {!hasResults && (
             <div>
@@ -119,6 +118,7 @@ export default function SkillGap() {
               </p>
             </div>
           )}
+
           <div className="grid grid-cols-2 gap-2">
             <div className="flex flex-col gap-1">
               <label className="section-label">Target role</label>
@@ -132,7 +132,9 @@ export default function SkillGap() {
               />
             </div>
             <div className="flex flex-col gap-1">
-              <label className="section-label">City <span className="font-normal text-muted">(optional)</span></label>
+              <label className="section-label">
+                City <span className="font-normal text-muted">(optional)</span>
+              </label>
               <input
                 className="border border-border rounded-lg px-3 py-1.5 text-sm text-ink
                            placeholder:text-muted bg-cream focus:outline-none focus:border-amber"
@@ -143,9 +145,11 @@ export default function SkillGap() {
               />
             </div>
           </div>
+
           <div className="flex items-center gap-3">
             <button
-              className="btn-primary px-5 py-1.5 text-sm disabled:opacity-50 disabled:cursor-not-allowed"
+              className="btn-primary self-start px-5 py-1.5 text-sm
+                         disabled:opacity-50 disabled:cursor-not-allowed"
               onClick={analyze}
               disabled={loading || !role.trim()}
             >
@@ -159,13 +163,11 @@ export default function SkillGap() {
         {roleData && roleData.total_postings === 0 && (
           <div className="card text-center py-6">
             <p className="text-sm font-medium text-ink">No postings found</p>
-            <p className="text-xs text-muted mt-1">
-              Try a broader search term or remove the city filter.
-            </p>
+            <p className="text-xs text-muted mt-1">Try a broader search term or remove the city filter.</p>
           </div>
         )}
 
-        {/* ── Step 2: enter your skills ── */}
+        {/* Step 2 — enter skills */}
         {hasResults && !compared && (
           <div className="card border-2 border-dashed border-amber-light bg-amber-pale/30 flex flex-col gap-2">
             <p className="text-sm font-semibold text-ink">How do you compare?</p>
@@ -191,7 +193,7 @@ export default function SkillGap() {
           </div>
         )}
 
-        {/* ── Comparison results ── */}
+        {/* Comparison results */}
         {compared && mySkillsSet.size > 0 && (
           <>
             <div className="card">
@@ -199,7 +201,7 @@ export default function SkillGap() {
               <MatchBar matched={have.length} total={roleData.top_skills.length} />
             </div>
 
-            <div className="grid grid-cols-2 gap-3">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <div className="card">
                 <p className="section-label mb-2" style={{ color: "#16a34a" }}>
                   You have ({have.length})
@@ -218,9 +220,7 @@ export default function SkillGap() {
                 }
               </div>
               <div className="card">
-                <p className="section-label mb-2 text-amber">
-                  Missing ({missing.length})
-                </p>
+                <p className="section-label mb-2 text-amber">Missing ({missing.length})</p>
                 {missing.length === 0
                   ? <p className="text-xs text-muted">You have all the top skills.</p>
                   : <div className="flex flex-wrap gap-1">
@@ -265,9 +265,7 @@ export default function SkillGap() {
 
       {/* ── RIGHT: required skills + jobs ── */}
       {hasResults && (
-        <div className="flex flex-col gap-4 overflow-y-auto">
-
-          {/* Context + required skills */}
+        <div className="flex flex-col gap-4">
           <div className="card flex flex-col gap-2">
             <div className="flex items-baseline justify-between">
               <p className="section-label">Required skills</p>
@@ -299,15 +297,14 @@ export default function SkillGap() {
             )}
           </div>
 
-          {/* Matching jobs */}
-          {jobs.length > 0 && (
-            <div className="card flex flex-col gap-0 flex-1 min-h-0">
+          {matchedJobs.length > 0 && (
+            <div className="card flex flex-col flex-1 min-h-0">
               <div className="flex items-center justify-between mb-2">
-                <p className="section-label">Matching jobs ({jobs.length})</p>
+                <p className="section-label">Matching jobs ({matchedJobs.length})</p>
                 <p className="text-xs text-muted">Click to apply</p>
               </div>
               <div className="overflow-y-auto flex-1">
-                {jobs.map(j => <JobRef key={j.job_id} job={j} />)}
+                {matchedJobs.map(j => <JobRef key={j.job_id} job={j} />)}
               </div>
             </div>
           )}

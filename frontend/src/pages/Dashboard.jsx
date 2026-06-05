@@ -7,7 +7,11 @@ import MarketIntel from "../components/MarketIntel"
 import JobsTable from "../components/JobsTable"
 import SkillGap from "../components/SkillGap"
 
-const TABS = ["Map", "Trends", "Jobs", "Skill Gap", "Market Intelligence"]
+const TABS = ["Map", "Trends", "Jobs", "Skill Gap", "Intel"]
+const TAB_LABELS = {
+  "Map": "Map", "Trends": "Trends", "Jobs": "Jobs",
+  "Skill Gap": "Skill Gap", "Intel": "Market Intel",
+}
 
 export default function Dashboard() {
   const [tab, setTab]         = useState("Map")
@@ -36,7 +40,7 @@ export default function Dashboard() {
     <div className="h-screen flex flex-col bg-cream overflow-hidden">
 
       {/* Top bar */}
-      <div className="border-b border-border bg-white px-5 h-12 flex items-center justify-between shrink-0">
+      <div className="border-b border-border bg-white px-4 sm:px-5 h-12 flex items-center justify-between shrink-0">
         <Link to="/" className="flex items-center gap-1.5 text-muted hover:text-ink transition-colors text-sm">
           <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
             <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
@@ -56,103 +60,102 @@ export default function Dashboard() {
         {health?.total_active_jobs > 0 && (
           <div className="flex items-center gap-1.5 text-xs text-muted">
             <span className="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse" />
-            {health.total_active_jobs.toLocaleString()} listings · {health.last_updated?.slice(0,10)}
+            <span className="hidden sm:inline">{health.total_active_jobs.toLocaleString()} listings · </span>
+            <span>{health.last_updated?.slice(0, 10)}</span>
           </div>
         )}
       </div>
 
-      {/* Filter bar */}
-      <div className="border-b border-border bg-white px-5 py-2 flex items-center gap-2 flex-wrap shrink-0">
-        <input
-          className="border border-border rounded-lg px-3 py-1.5 text-sm text-ink
-                     placeholder:text-muted bg-cream focus:outline-none focus:border-amber w-40"
-          placeholder="Role / keyword"
-          value={filters.role}
-          onChange={e => setFilters(f => ({ ...f, role: e.target.value }))}
-        />
-        <input
-          className="border border-border rounded-lg px-3 py-1.5 text-sm text-ink
-                     placeholder:text-muted bg-cream focus:outline-none focus:border-amber w-32"
-          placeholder="City"
-          value={filters.city}
-          onChange={e => setFilters(f => ({ ...f, city: e.target.value }))}
-        />
-        <select
-          className="border border-border rounded-lg px-3 py-1.5 text-sm text-ink
-                     bg-cream focus:outline-none focus:border-amber"
-          value={filters.remote}
-          onChange={e => setFilters(f => ({ ...f, remote: e.target.value }))}
-        >
-          <option value="">Any work type</option>
-          <option value="true">Remote only</option>
-          <option value="false">Onsite only</option>
-        </select>
-        <select
-          className="border border-border rounded-lg px-3 py-1.5 text-sm text-ink
-                     bg-cream focus:outline-none focus:border-amber"
-          value={filters.experience}
-          onChange={e => setFilters(f => ({ ...f, experience: e.target.value }))}
-        >
-          <option value="">Any level</option>
-          <option value="entry">Entry</option>
-          <option value="mid">Mid</option>
-          <option value="senior">Senior</option>
-        </select>
-        {Object.values(filters).some(Boolean) && (
-          <button
-            className="text-xs text-muted hover:text-ink underline"
-            onClick={() => setFilters({ role:"", city:"", remote:"", experience:"" })}
+      {/* Filter bar — horizontally scrollable on mobile */}
+      <div className="border-b border-border bg-white shrink-0">
+        <div className="px-4 sm:px-5 py-2 flex items-center gap-2 overflow-x-auto">
+          <input
+            className="border border-border rounded-lg px-3 py-1.5 text-sm text-ink
+                       placeholder:text-muted bg-cream focus:outline-none focus:border-amber
+                       w-36 sm:w-40 shrink-0"
+            placeholder="Role / keyword"
+            value={filters.role}
+            onChange={e => setFilters(f => ({ ...f, role: e.target.value }))}
+          />
+          <input
+            className="border border-border rounded-lg px-3 py-1.5 text-sm text-ink
+                       placeholder:text-muted bg-cream focus:outline-none focus:border-amber
+                       w-28 sm:w-32 shrink-0"
+            placeholder="City"
+            value={filters.city}
+            onChange={e => setFilters(f => ({ ...f, city: e.target.value }))}
+          />
+          <select
+            className="border border-border rounded-lg px-3 py-1.5 text-sm text-ink
+                       bg-cream focus:outline-none focus:border-amber shrink-0"
+            value={filters.remote}
+            onChange={e => setFilters(f => ({ ...f, remote: e.target.value }))}
           >
-            Clear
-          </button>
-        )}
-      </div>
-
-      {/* Pill tabs */}
-      <div className="border-b border-border bg-white px-5 py-2 shrink-0">
-        <div className="inline-flex gap-1 bg-cream rounded-lg p-1">
-          {TABS.map(t => (
+            <option value="">Any type</option>
+            <option value="true">Remote</option>
+            <option value="false">Onsite</option>
+          </select>
+          <select
+            className="border border-border rounded-lg px-3 py-1.5 text-sm text-ink
+                       bg-cream focus:outline-none focus:border-amber shrink-0"
+            value={filters.experience}
+            onChange={e => setFilters(f => ({ ...f, experience: e.target.value }))}
+          >
+            <option value="">Any level</option>
+            <option value="entry">Entry</option>
+            <option value="mid">Mid</option>
+            <option value="senior">Senior</option>
+          </select>
+          {Object.values(filters).some(Boolean) && (
             <button
-              key={t}
-              onClick={() => setTab(t)}
-              className={`px-4 py-1.5 rounded-md text-sm font-medium transition-all duration-150 ${
-                tab === t
-                  ? "bg-white text-ink shadow-sm border border-border"
-                  : "text-muted hover:text-ink"
-              }`}
+              className="text-xs text-muted hover:text-ink underline shrink-0"
+              onClick={() => setFilters({ role: "", city: "", remote: "", experience: "" })}
             >
-              {t}
+              Clear
             </button>
-          ))}
+          )}
         </div>
       </div>
 
-      {/* Tab content — all mounted, hidden when not active to avoid white flash */}
+      {/* Pill tabs — horizontally scrollable on mobile */}
+      <div className="border-b border-border bg-white shrink-0">
+        <div className="px-4 sm:px-5 py-2 overflow-x-auto">
+          <div className="inline-flex gap-1 bg-cream rounded-lg p-1 min-w-max">
+            {TABS.map(t => (
+              <button key={t} onClick={() => setTab(t)}
+                className={`px-3 sm:px-4 py-1.5 rounded-md text-xs sm:text-sm font-medium
+                            transition-all duration-150 whitespace-nowrap ${
+                  tab === t
+                    ? "bg-white text-ink shadow-sm border border-border"
+                    : "text-muted hover:text-ink"
+                }`}>
+                {TAB_LABELS[t]}
+              </button>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      {/* Tab content */}
       <div className="flex-1 overflow-hidden relative">
 
         {/* MAP */}
-        <div className={`absolute inset-0 ${tab === "Map" ? "flex" : "hidden"} flex-col`}>
-          <div className="flex-1 grid grid-cols-[1fr_260px] overflow-hidden">
-            <div className="overflow-hidden p-4 h-full">
+        <div className={`absolute inset-0 ${tab === "Map" ? "flex" : "hidden"} flex-col overflow-y-auto md:overflow-hidden`}>
+          <div className="flex flex-col md:grid md:grid-cols-[1fr_260px] md:flex-none md:h-full md:overflow-hidden">
+            <div className="h-64 sm:h-80 md:h-full overflow-hidden p-3 sm:p-4">
               <MapChart mapData={mapData || []} />
             </div>
-            <div className="border-l border-border p-4 overflow-y-auto">
-              <MarketIntel
-                insights={insights || {}}
-                trending={trending || {}}
-                topCities={topCities}
-              />
+            <div className="border-t md:border-t-0 md:border-l border-border p-4 md:overflow-y-auto">
+              <MarketIntel insights={insights || {}} trending={trending || {}} topCities={topCities} />
             </div>
           </div>
         </div>
 
         {/* TRENDS */}
-        <div className={`absolute inset-0 overflow-y-auto p-6 ${tab === "Trends" ? "block" : "hidden"}`}>
+        <div className={`absolute inset-0 overflow-y-auto p-4 sm:p-6 ${tab === "Trends" ? "block" : "hidden"}`}>
           {trending ? (
             <div className="max-w-3xl mx-auto flex flex-col gap-6">
-
-              {/* KPI row */}
-              <div className="grid grid-cols-3 gap-4">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                 {[
                   { label: "New this week", value: trending.this_week?.new_jobs ?? "—", sub: "listings entered the market" },
                   { label: "New last week", value: trending.last_week?.new_jobs ?? "—", sub: "for comparison" },
@@ -165,51 +168,40 @@ export default function Dashboard() {
                   </div>
                 ))}
               </div>
-
-              {/* Skills — ranked list with bar */}
               <div className="card">
                 <p className="section-label mb-4">Most In-Demand Skills</p>
                 <div className="flex flex-col gap-3">
                   {Object.entries(trending.all_time_top_skills || {}).slice(0, 10).map(([skill, count], i) => {
                     const max = Object.values(trending.all_time_top_skills)[0] || 1
-                    const pct = Math.round((count / max) * 100)
                     return (
-                      <div key={skill} className="flex items-center gap-3">
+                      <div key={skill} className="flex items-center gap-2 sm:gap-3">
                         <span className="text-xs text-muted w-5 text-right shrink-0">{i + 1}</span>
-                        <span className="text-sm font-medium text-ink w-24 shrink-0">{skill}</span>
+                        <span className="text-sm font-medium text-ink w-20 sm:w-24 shrink-0 truncate">{skill}</span>
                         <div className="flex-1 h-2 bg-border rounded-full overflow-hidden">
                           <div className="h-full bg-amber rounded-full transition-all"
-                               style={{ width: `${pct}%` }} />
+                               style={{ width: `${Math.round((count / max) * 100)}%` }} />
                         </div>
-                        <span className="text-xs text-muted w-10 text-right shrink-0">
-                          {count} jobs
-                        </span>
+                        <span className="text-xs text-muted w-10 text-right shrink-0">{count}</span>
                       </div>
                     )
                   })}
                 </div>
               </div>
-
-              {/* Fastest growing — cards */}
               <div>
                 <p className="section-label mb-3">Fastest Growing Roles</p>
                 {trending.fastest_growing_roles?.length > 0 ? (
-                  <div className="grid grid-cols-2 gap-3">
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     {trending.fastest_growing_roles.map(g => {
-                      const pct = g.change_pct
-                      const isUp = pct >= 0
+                      const isUp = g.change_pct >= 0
                       return (
                         <div key={g.role} className="card flex items-start justify-between gap-3">
                           <div className="flex-1 min-w-0">
                             <p className="text-sm font-medium text-ink truncate">{g.role}</p>
-                            <p className="text-xs text-muted mt-0.5">
-                              {g.this_week} this week · {g.last_week} last week
-                            </p>
+                            <p className="text-xs text-muted mt-0.5">{g.this_week} this week · {g.last_week} last week</p>
                           </div>
                           <div className={`flex items-center gap-1 shrink-0 px-2 py-0.5 rounded-full text-xs font-semibold
                             ${isUp ? "bg-green-50 text-green-700" : "bg-red-50 text-red-600"}`}>
-                            <span>{isUp ? "↑" : "↓"}</span>
-                            <span>{Math.abs(pct)}%</span>
+                            <span>{isUp ? "↑" : "↓"}</span><span>{Math.abs(g.change_pct)}%</span>
                           </div>
                         </div>
                       )
@@ -217,10 +209,8 @@ export default function Dashboard() {
                   </div>
                 ) : (
                   <div className="card text-center py-8">
-                    <p className="text-sm text-muted">
-                      Not enough history yet.<br />
-                      <span className="text-xs">Run the pipeline over several days to see trends.</span>
-                    </p>
+                    <p className="text-sm text-muted">Not enough history yet.<br />
+                      <span className="text-xs">Run the pipeline over several days to see trends.</span></p>
                   </div>
                 )}
               </div>
@@ -231,24 +221,24 @@ export default function Dashboard() {
         </div>
 
         {/* JOBS */}
-        <div className={`absolute inset-0 overflow-y-auto p-6 ${tab === "Jobs" ? "block" : "hidden"}`}>
+        <div className={`absolute inset-0 overflow-y-auto p-4 sm:p-6 ${tab === "Jobs" ? "block" : "hidden"}`}>
           <div className="max-w-3xl mx-auto">
             <JobsTable data={jobsData} />
           </div>
         </div>
 
         {/* SKILL GAP */}
-        <div className={`absolute inset-0 overflow-y-auto p-6 ${tab === "Skill Gap" ? "block" : "hidden"}`}>
+        <div className={`absolute inset-0 overflow-y-auto p-4 sm:p-6 ${tab === "Skill Gap" ? "block" : "hidden"}`}>
           <SkillGap />
         </div>
 
         {/* MARKET INTELLIGENCE */}
-        <div className={`absolute inset-0 overflow-y-auto p-6 ${tab === "Market Intelligence" ? "block" : "hidden"}`}>
+        <div className={`absolute inset-0 overflow-y-auto p-4 sm:p-6 ${tab === "Intel" ? "block" : "hidden"}`}>
           <div className="max-w-3xl mx-auto">
             {insights?.generated_at ? (
               <div className="flex flex-col gap-5">
                 <p className="text-xs text-muted">AI analysis · {insights.generated_at}</p>
-                <div className="grid grid-cols-2 gap-4">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   {insights.fastest_growing_roles?.map(g => (
                     <div key={g.role} className="card flex items-center justify-between gap-3">
                       <div>
@@ -265,10 +255,7 @@ export default function Dashboard() {
                     <p className="section-label mb-2">Notable Shifts</p>
                     <div className="flex flex-col gap-2">
                       {insights.notable_shifts.map((s, i) => (
-                        <div key={i} className="bg-amber-pale border-l-2 border-amber
-                                                 text-sm text-ink px-4 py-3 rounded-r-lg">
-                          {s}
-                        </div>
+                        <div key={i} className="bg-amber-pale border-l-2 border-amber text-sm text-ink px-4 py-3 rounded-r-lg">{s}</div>
                       ))}
                     </div>
                   </div>
@@ -286,10 +273,7 @@ export default function Dashboard() {
               </div>
             ) : (
               <div className="flex flex-col gap-5">
-                <p className="text-sm text-muted">
-                  Full AI insights appear here after the pipeline runs with Groq.
-                  Showing live data below.
-                </p>
+                <p className="text-sm text-muted">Full AI insights appear here after the pipeline runs.</p>
                 {trending && (
                   <div className="card">
                     <p className="section-label mb-3">All-time top skills</p>
