@@ -2,23 +2,23 @@
   "generated_at": "2026-06-05",
   "fastest_growing_roles": [
     {
+      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
       "role": "Data Analyst",
-      "change_pct": 0,
+      "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "IT Software Engineer II - Digital Product Design",
-      "change_pct": 0,
+      "role": "People Operations ManagerNew",
+      "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Software Engineer II AI & Platform Engineering",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Assistant Manager (Insurance Process Operations)",
-      "change_pct": 0,
+      "role": "QEHS Associate - Philippines",
+      "change_pct": 100,
       "city": "Manila"
     }
   ],
@@ -39,12 +39,12 @@
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 58,
+      "count": 60,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 20,
+      "count": 23,
       "change_pct": 0
     },
     {
@@ -64,10 +64,9 @@
     }
   ],
   "notable_shifts": [
-    "Increased demand for remote work with 26% of listings available remotely",
-    "Skills in data analysis and software development remain in high demand",
-    "Manila continues to be the top hiring city"
+    "Finance Manager - CDC Tuberculosis Activity - Philippines demand increased by 100%",
+    "New roles emerged: Data Analyst, People Operations ManagerNew, QEHS Associate - Philippines, Accounts Specialist - Corporate Banking, IT Software Engineer II - Digital Product Design"
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market remains competitive, with Manila being the top hiring city and data analysis and software development skills in high demand. With 26% of listings available remotely, flexibility is becoming increasingly important for job seekers."
+  "summary_text": "The Philippine job market is experiencing growth, with a 26% increase in remote listings and a demand for finance and data professionals. Cities like Manila and Taguig are leading the hiring charge, while skills like Excel and SQL remain in high demand."
 }
