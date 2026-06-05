@@ -2,17 +2,17 @@
   "generated_at": "2026-06-05",
   "fastest_growing_roles": [
     {
-      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
       "role": "Data Analyst",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "People Operations ManagerNew",
+      "role": "People Operations Manager",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
       "change_pct": 100,
       "city": "Manila"
     },
@@ -28,28 +28,28 @@
     "python",
     "react",
     "html",
-    "aws",
     "ci/cd",
+    "aws",
+    "power bi",
     "agile",
-    "azure",
-    "docker",
     "tableau",
-    "power bi"
+    "azure",
+    "r"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 60,
+      "count": 82,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 23,
+      "count": 33,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 10,
+      "count": 11,
       "change_pct": 0
     },
     {
@@ -64,9 +64,18 @@
     }
   ],
   "notable_shifts": [
-    "Finance Manager - CDC Tuberculosis Activity - Philippines demand increased by 100%",
-    "New roles emerged: Data Analyst, People Operations ManagerNew, QEHS Associate - Philippines, Accounts Specialist - Corporate Banking, IT Software Engineer II - Digital Product Design"
+    "Data Analyst demand increased significantly",
+    "New roles emerged in Manila",
+    "Finance Manager - CDC Tuberculosis Activity - Philippines saw a 100% increase in demand"
   ],
-  "salary_highlights": [],
-  "summary_text": "The Philippine job market is experiencing growth, with a 26% increase in remote listings and a demand for finance and data professionals. Cities like Manila and Taguig are leading the hiring charge, while skills like Excel and SQL remain in high demand."
+  "salary_highlights": [
+    {
+      "role": "Data Analyst",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 1
+    }
+  ],
+  "summary_text": "The Philippine job market is experiencing growth, with a significant increase in demand for Data Analysts and new roles emerging in Manila. The top hiring cities remain Manila and the Philippines, with Taguig and Pasig also seeing notable activity."
 }
