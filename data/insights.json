@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-06-05",
+  "generated_at": "2026-06-06",
   "fastest_growing_roles": [
     {
-      "role": "Data Analyst",
+      "role": "Healthcare Account | CSR | Open for Fresh Graduates",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "People Operations Manager",
+      "role": "Marketing Director - Global Pharma",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
+      "role": "NAM Commercial Support Specialist",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "QEHS Associate - Philippines",
+      "role": "Compliance Manager (PEZA) | US",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Deputy Representative Programme, P-5, Manila, Philippines",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Software Engineer (RPA/Python)",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -26,30 +36,30 @@
     "excel",
     "sql",
     "python",
+    "agile",
     "react",
+    "power bi",
     "html",
     "ci/cd",
     "aws",
-    "power bi",
-    "agile",
+    "salesforce",
     "tableau",
-    "azure",
-    "r"
+    "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 82,
+      "count": 107,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 33,
+      "count": 36,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 11,
+      "count": 12,
       "change_pct": 0
     },
     {
@@ -64,18 +74,25 @@
     }
   ],
   "notable_shifts": [
-    "Data Analyst demand increased significantly",
-    "New roles emerged in Manila",
-    "Finance Manager - CDC Tuberculosis Activity - Philippines saw a 100% increase in demand"
+    "Remote listings account for 25% of total listings.",
+    "Senior roles dominate the job market with 52% of listings.",
+    "Salary data is available for 2 postings, with a median range of PHP 32,500–42,500/month."
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 45000,
-      "max": 60000,
+      "min": 32500,
+      "max": 42500,
+      "n": 1
+    },
+    {
+      "role": "Senior Accounting Specialist",
+      "city": "Manila",
+      "min": 32500,
+      "max": 42500,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with a significant increase in demand for Data Analysts and new roles emerging in Manila. The top hiring cities remain Manila and the Philippines, with Taguig and Pasig also seeing notable activity."
+  "summary_text": "The Philippine job market is experiencing growth, with Manila emerging as the top hiring city. Senior roles are in high demand, and remote listings account for a quarter of total listings."
 }
