@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-06",
+  "generated_at": "2026-06-07",
   "fastest_growing_roles": [
     {
-      "role": "Healthcare Account | CSR | Open for Fresh Graduates",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Marketing Director - Global Pharma",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "NAM Commercial Support Specialist",
+      "role": "Storekeeper",
       "change_pct": 100,
       "city": "Manila"
     },
     {
       "role": "Compliance Manager (PEZA) | US",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Medical Representative - Greater Manila Area (GMA)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Deputy Representative Programme, P-5, Manila, Philippines",
+      "role": "Office Staff ( Reception )",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Software Engineer (RPA/Python)",
+      "role": "Software Engineer - Information Technology",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Custom Software Engineer",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -40,21 +40,21 @@
     "react",
     "power bi",
     "html",
+    "tableau",
     "ci/cd",
     "aws",
     "salesforce",
-    "tableau",
     "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 107,
+      "count": 121,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 36,
+      "count": 38,
       "change_pct": 0
     },
     {
@@ -74,25 +74,18 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings account for 25% of total listings.",
-    "Senior roles dominate the job market with 52% of listings.",
-    "Salary data is available for 2 postings, with a median range of PHP 32,500–42,500/month."
+    "Remote listings increased by 27%",
+    "Senior roles dominate the market with 54% of listings",
+    "Data Analyst and Software Engineer roles are in high demand"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 32500,
-      "max": 42500,
-      "n": 1
-    },
-    {
-      "role": "Senior Accounting Specialist",
-      "city": "Manila",
-      "min": 32500,
-      "max": 42500,
-      "n": 1
+      "min": 45000,
+      "max": 60000,
+      "n": 5
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with Manila emerging as the top hiring city. Senior roles are in high demand, and remote listings account for a quarter of total listings."
+  "summary_text": "The Philippine job market is experiencing a surge in demand for skilled professionals, with remote listings increasing by 27%. Senior roles dominate the market, and Data Analyst and Software Engineer roles are in high demand."
 }
