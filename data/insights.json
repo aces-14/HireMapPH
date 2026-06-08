@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-06-07",
+  "generated_at": "2026-06-08",
   "fastest_growing_roles": [
     {
-      "role": "Storekeeper",
+      "role": "Regional Head of IT",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Compliance Manager (PEZA) | US",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Medical Representative - Greater Manila Area (GMA)",
+      "role": "Product Manager (Global FMCG - Food)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Office Staff ( Reception )",
+      "role": "Software Development Engineer in Test",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Software Engineer - Information Technology",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Custom Software Engineer",
+      "role": "Store Development Specialist (Open to Fresh Graduates)",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -37,29 +27,25 @@
     "sql",
     "python",
     "agile",
-    "react",
     "power bi",
+    "react",
     "html",
-    "tableau",
-    "ci/cd",
-    "aws",
-    "salesforce",
-    "azure"
+    "tableau"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 121,
+      "count": 135,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 38,
+      "count": 46,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 12,
+      "count": 14,
       "change_pct": 0
     },
     {
@@ -68,15 +54,15 @@
       "change_pct": 0
     },
     {
-      "city": "Cebu City",
-      "count": 1,
+      "city": "Cebu",
+      "count": 3,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 27%",
-    "Senior roles dominate the market with 54% of listings",
-    "Data Analyst and Software Engineer roles are in high demand"
+    "Remote listings increased to 28%",
+    "Senior experience levels dominate at 63%",
+    "New roles emerged in IT and FMCG"
   ],
   "salary_highlights": [
     {
@@ -85,7 +71,56 @@
       "min": 45000,
       "max": 60000,
       "n": 5
+    },
+    {
+      "role": "Sr. Data Analyst",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 4
+    },
+    {
+      "role": "Senior Accounting Specialist",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 4
+    },
+    {
+      "role": "Software Engineer",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
+    },
+    {
+      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
+    },
+    {
+      "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
+    },
+    {
+      "role": "Accounting Associates",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
+    },
+    {
+      "role": "Software Engineer - Information Technology",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
     }
   ],
-  "summary_text": "The Philippine job market is experiencing a surge in demand for skilled professionals, with remote listings increasing by 27%. Senior roles dominate the market, and Data Analyst and Software Engineer roles are in high demand."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in IT and FMCG. Senior experience levels dominate, and remote listings have increased to 28%. The most in-demand skills include Excel, SQL, and Python."
 }
