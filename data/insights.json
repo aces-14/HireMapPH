@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-09",
+  "generated_at": "2026-06-10",
   "fastest_growing_roles": [
     {
-      "role": "Regional Head of IT",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Project Payables Analyst I",
+      "role": "Junior Scholarship Affairs Officer",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Recruiter II",
+      "role": "Network Engineer II",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "IT Specialist 2 (Programmer)",
+      "role": "Loans Operations Specialist I",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Product Manager (Global FMCG - Food)",
-      "change_pct": 0,
+      "role": "Field Officer (WASH/Shelter) - BARMM/Region XII (Filipino Nationals Only)",
+      "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "HR Associate",
+      "role": "Front-End Software Engineer - Salesforce",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Storekeeper",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -41,40 +41,42 @@
     "power bi",
     "html",
     "tableau",
+    "javascript",
     "php",
-    "javascript"
+    "aws",
+    "salesforce"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 158,
+      "count": 181,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 56,
+      "count": 63,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 14,
+      "count": 15,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 7,
+      "count": 9,
       "change_pct": 0
     },
     {
-      "city": "Angeles Pampanga Ph",
-      "count": 2,
+      "city": "Batangas City",
+      "count": 3,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
     "Remote listings increased to 27%",
-    "New roles emerged in IT and HR",
-    "Demand for Data Analysts remains high"
+    "Experience levels: senior (83%), mid (79%), entry (31%)",
+    "Salary data available for 7 postings, with a median range of PHP 45,000–60,000/month"
   ],
   "salary_highlights": [
     {
@@ -97,7 +99,42 @@
       "min": 45000,
       "max": 60000,
       "n": 4
+    },
+    {
+      "role": "Software Engineer",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
+    },
+    {
+      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
+    },
+    {
+      "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
+    },
+    {
+      "role": "Software Engineer - Information Technology",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
+    },
+    {
+      "role": "Accounting Associates",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
     }
   ],
-  "summary_text": "The Philippine job market remains competitive, with Manila emerging as the top hiring city. Demand for data analysts and IT professionals continues to grow, while remote listings have increased to 27%. Salary ranges for in-demand roles remain stable, with a median range of PHP 45,000–60,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with a 27% increase in remote listings and a shift towards in-demand skills like Excel, SQL, and Python. Senior roles dominate the market, making up 83% of listings, while experience levels are also skewed towards mid-level professionals."
 }
