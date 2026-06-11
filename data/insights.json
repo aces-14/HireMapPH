@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-10",
+  "generated_at": "2026-06-11",
   "fastest_growing_roles": [
     {
       "role": "Junior Scholarship Affairs Officer",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Associate III, Marketing",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Network Engineer II",
+      "role": "Deskside L2 Support (Makati)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Loans Operations Specialist I",
+      "role": "Logistics Coordinator (Remote - Philippines)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Field Officer (WASH/Shelter) - BARMM/Region XII (Filipino Nationals Only)",
+      "role": "Murex Regulatory BA",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Front-End Software Engineer - Salesforce",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Storekeeper",
+      "role": "Implementation Manager",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -37,24 +37,20 @@
     "sql",
     "python",
     "agile",
-    "react",
     "power bi",
+    "react",
     "html",
-    "tableau",
-    "javascript",
-    "php",
-    "aws",
-    "salesforce"
+    "aws"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 181,
+      "count": 203,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 63,
+      "count": 74,
       "change_pct": 0
     },
     {
@@ -64,7 +60,7 @@
     },
     {
       "city": "Pasig",
-      "count": 9,
+      "count": 10,
       "change_pct": 0
     },
     {
@@ -74,9 +70,9 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 27%",
-    "Experience levels: senior (83%), mid (79%), entry (31%)",
-    "Salary data available for 7 postings, with a median range of PHP 45,000–60,000/month"
+    "New roles emerged in Manila, including Associate III, Marketing and Deskside L2 Support (Makati)",
+    "Logistics Coordinator (Remote - Philippines) and Murex Regulatory BA also appeared in the job market",
+    "Implementation Manager is a new role in the market"
   ],
   "salary_highlights": [
     {
@@ -101,20 +97,6 @@
       "n": 4
     },
     {
-      "role": "Software Engineer",
-      "city": "Manila",
-      "min": 45000,
-      "max": 60000,
-      "n": 3
-    },
-    {
-      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
-      "city": "Manila",
-      "min": 45000,
-      "max": 60000,
-      "n": 3
-    },
-    {
       "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
       "city": "Manila",
       "min": 45000,
@@ -122,7 +104,7 @@
       "n": 3
     },
     {
-      "role": "Software Engineer - Information Technology",
+      "role": "Software Engineer",
       "city": "Manila",
       "min": 45000,
       "max": 60000,
@@ -134,7 +116,14 @@
       "min": 45000,
       "max": 60000,
       "n": 3
+    },
+    {
+      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
+      "city": "Manila",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with a 27% increase in remote listings and a shift towards in-demand skills like Excel, SQL, and Python. Senior roles dominate the market, making up 83% of listings, while experience levels are also skewed towards mid-level professionals."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila. The most in-demand skills remain technical, with Excel and SQL leading the pack. Salary data is limited, but available roles in Manila offer a median range of PHP 45,000–60,000/month."
 }
