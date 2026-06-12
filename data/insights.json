@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-11",
+  "generated_at": "2026-06-12",
   "fastest_growing_roles": [
     {
-      "role": "Junior Scholarship Affairs Officer",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Associate III, Marketing",
+      "role": "Court Stenographer I",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Deskside L2 Support (Makati)",
+      "role": "Education Supervisor II (Higher Education)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Logistics Coordinator (Remote - Philippines)",
+      "role": "Supervisor, Reporting & Analytics",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Murex Regulatory BA",
+      "role": "Senior Aerodrome Engineer",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Implementation Manager",
+      "role": "QA Team Lead",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Software Engineer",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -37,20 +37,20 @@
     "sql",
     "python",
     "agile",
-    "power bi",
     "react",
+    "power bi",
     "html",
-    "aws"
+    "javascript"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 203,
+      "count": 225,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 74,
+      "count": 79,
       "change_pct": 0
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "city": "Pasig",
-      "count": 10,
+      "count": 11,
       "change_pct": 0
     },
     {
@@ -70,60 +70,67 @@
     }
   ],
   "notable_shifts": [
-    "New roles emerged in Manila, including Associate III, Marketing and Deskside L2 Support (Makati)",
-    "Logistics Coordinator (Remote - Philippines) and Murex Regulatory BA also appeared in the job market",
-    "Implementation Manager is a new role in the market"
+    "Remote listings increased to 30%",
+    "New roles emerged in various fields",
+    "Demand for Data Analysts remains high"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 45000,
-      "max": 60000,
-      "n": 5
-    },
-    {
-      "role": "Sr. Data Analyst",
-      "city": "Manila",
-      "min": 45000,
-      "max": 60000,
-      "n": 4
-    },
-    {
-      "role": "Senior Accounting Specialist",
-      "city": "Manila",
-      "min": 45000,
-      "max": 60000,
-      "n": 4
-    },
-    {
-      "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
-      "city": "Manila",
-      "min": 45000,
-      "max": 60000,
-      "n": 3
+      "min": 47500,
+      "max": 65000,
+      "n": 1
     },
     {
       "role": "Software Engineer",
       "city": "Manila",
-      "min": 45000,
-      "max": 60000,
-      "n": 3
+      "min": 47500,
+      "max": 65000,
+      "n": 1
     },
     {
-      "role": "Accounting Associates",
+      "role": "Sr. Data Analyst",
       "city": "Manila",
-      "min": 45000,
-      "max": 60000,
-      "n": 3
+      "min": 47500,
+      "max": 65000,
+      "n": 1
+    },
+    {
+      "role": "Senior Accounting Specialist",
+      "city": "Manila",
+      "min": 47500,
+      "max": 65000,
+      "n": 1
+    },
+    {
+      "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
+      "city": "Manila",
+      "min": 47500,
+      "max": 65000,
+      "n": 1
     },
     {
       "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
       "city": "Manila",
-      "min": 45000,
-      "max": 60000,
-      "n": 3
+      "min": 47500,
+      "max": 65000,
+      "n": 1
+    },
+    {
+      "role": "Accounting Associates",
+      "city": "Manila",
+      "min": 47500,
+      "max": 65000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer - Information Technology",
+      "city": "Manila",
+      "min": 47500,
+      "max": 65000,
+      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila. The most in-demand skills remain technical, with Excel and SQL leading the pack. Salary data is limited, but available roles in Manila offer a median range of PHP 45,000–60,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in various fields. Demand for Data Analysts remains high, and remote listings have increased to 30%. The median salary range is PHP 47,500–65,000/month."
 }
