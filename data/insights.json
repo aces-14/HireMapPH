@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-06-12",
+  "generated_at": "2026-06-13",
   "fastest_growing_roles": [
     {
-      "role": "Court Stenographer I",
-      "change_pct": 100,
+      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Education Supervisor II (Higher Education)",
-      "change_pct": 100,
-      "city": "Manila"
+      "role": "Director of Finance (Remote) | Philippines",
+      "change_pct": 0,
+      "city": "Philippines"
     },
     {
-      "role": "Supervisor, Reporting & Analytics",
-      "change_pct": 100,
-      "city": "Manila"
+      "role": "Deskside L2 Support (Makati)",
+      "change_pct": 0,
+      "city": "Makati"
     },
     {
-      "role": "Senior Aerodrome Engineer",
-      "change_pct": 100,
-      "city": "Manila"
+      "role": "Manager Training & Development",
+      "change_pct": 0,
+      "city": "Philippines"
     },
     {
-      "role": "QA Team Lead",
-      "change_pct": 100,
-      "city": "Manila"
+      "role": "Software Engineer, iOS Core Product - Cebu, Philippines",
+      "change_pct": 0,
+      "city": "Cebu"
     },
     {
-      "role": "Software Engineer",
-      "change_pct": 100,
-      "city": "Manila"
+      "role": "Software Engineering Technical Lead – Hybrid/Remote",
+      "change_pct": 0,
+      "city": "Philippines"
     }
   ],
   "most_in_demand_skills": [
@@ -40,17 +40,21 @@
     "react",
     "power bi",
     "html",
-    "javascript"
+    "tableau",
+    "javascript",
+    "aws",
+    "salesforce",
+    "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 225,
+      "count": 235,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 79,
+      "count": 83,
       "change_pct": 0
     },
     {
@@ -70,67 +74,46 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 30%",
-    "New roles emerged in various fields",
-    "Demand for Data Analysts remains high"
+    "31% of listings are remote",
+    "Senior roles account for 30% of listings",
+    "Python is the 3rd most in-demand skill"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
-    },
-    {
-      "role": "Software Engineer",
-      "city": "Manila",
+      "city": "Philippines",
       "min": 47500,
       "max": 65000,
       "n": 1
     },
     {
       "role": "Sr. Data Analyst",
-      "city": "Manila",
+      "city": "Philippines",
       "min": 47500,
       "max": 65000,
       "n": 1
     },
     {
       "role": "Senior Accounting Specialist",
-      "city": "Manila",
+      "city": "Philippines",
       "min": 47500,
       "max": 65000,
       "n": 1
     },
     {
-      "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
-      "city": "Manila",
+      "role": "Software Engineer",
+      "city": "Philippines",
       "min": 47500,
       "max": 65000,
       "n": 1
     },
     {
-      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
-    },
-    {
-      "role": "Accounting Associates",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
-    },
-    {
-      "role": "Software Engineer - Information Technology",
+      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
       "city": "Manila",
       "min": 47500,
       "max": 65000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in various fields. Demand for Data Analysts remains high, and remote listings have increased to 30%. The median salary range is PHP 47,500–65,000/month."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with a focus on remote work and in-demand skills like Python and SQL. Senior roles are in high demand, and cities like Manila and the Philippines are leading the way in hiring."
 }
