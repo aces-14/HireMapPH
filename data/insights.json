@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-06-13",
+  "generated_at": "2026-06-14",
   "fastest_growing_roles": [
     {
-      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
-      "change_pct": 0,
+      "role": "Research and Analysis Officer",
+      "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Director of Finance (Remote) | Philippines",
-      "change_pct": 0,
-      "city": "Philippines"
+      "role": "Customer Assistance Specialist",
+      "change_pct": 100,
+      "city": "Manila"
     },
     {
-      "role": "Deskside L2 Support (Makati)",
-      "change_pct": 0,
-      "city": "Makati"
+      "role": "Student Marketeer - Manila & Cebu (with Distribution Partner)",
+      "change_pct": 100,
+      "city": "Manila"
     },
     {
-      "role": "Manager Training & Development",
-      "change_pct": 0,
-      "city": "Philippines"
+      "role": "Middle Data Analyst",
+      "change_pct": 100,
+      "city": "Manila"
     },
     {
-      "role": "Software Engineer, iOS Core Product - Cebu, Philippines",
-      "change_pct": 0,
-      "city": "Cebu"
+      "role": "Senior Data Analyst – End User Transformation Services",
+      "change_pct": 100,
+      "city": "Manila"
     },
     {
-      "role": "Software Engineering Technical Lead – Hybrid/Remote",
-      "change_pct": 0,
-      "city": "Philippines"
+      "role": "Data Analyst, Remote",
+      "change_pct": 100,
+      "city": "Manila"
     }
   ],
   "most_in_demand_skills": [
@@ -37,8 +37,8 @@
     "sql",
     "python",
     "agile",
-    "react",
     "power bi",
+    "react",
     "html",
     "tableau",
     "javascript",
@@ -49,17 +49,17 @@
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 235,
+      "count": 245,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 83,
+      "count": 86,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 15,
+      "count": 16,
       "change_pct": 0
     },
     {
@@ -74,35 +74,35 @@
     }
   ],
   "notable_shifts": [
-    "31% of listings are remote",
-    "Senior roles account for 30% of listings",
-    "Python is the 3rd most in-demand skill"
+    "Remote listings account for 31% of total listings.",
+    "Experience levels are senior: 115, mid: 109, entry: 40.",
+    "Median salary range is PHP 47,500–65,000/month."
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
-      "city": "Philippines",
+      "city": "Manila",
       "min": 47500,
       "max": 65000,
       "n": 1
     },
     {
       "role": "Sr. Data Analyst",
-      "city": "Philippines",
+      "city": "Manila",
       "min": 47500,
       "max": 65000,
       "n": 1
     },
     {
       "role": "Senior Accounting Specialist",
-      "city": "Philippines",
+      "city": "Manila",
       "min": 47500,
       "max": 65000,
       "n": 1
     },
     {
       "role": "Software Engineer",
-      "city": "Philippines",
+      "city": "Manila",
       "min": 47500,
       "max": 65000,
       "n": 1
@@ -113,7 +113,28 @@
       "min": 47500,
       "max": 65000,
       "n": 1
+    },
+    {
+      "role": "Accounting Associates",
+      "city": "Manila",
+      "min": 47500,
+      "max": 65000,
+      "n": 1
+    },
+    {
+      "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
+      "city": "Manila",
+      "min": 47500,
+      "max": 65000,
+      "n": 1
+    },
+    {
+      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
+      "city": "Manila",
+      "min": 47500,
+      "max": 65000,
+      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with a focus on remote work and in-demand skills like Python and SQL. Senior roles are in high demand, and cities like Manila and the Philippines are leading the way in hiring."
+  "summary_text": "The Philippine job market is experiencing growth, with Manila being the top hiring city. In-demand skills include Excel, SQL, and Python, while remote listings account for 31% of total listings. Median salary range is PHP 47,500–65,000/month."
 }
