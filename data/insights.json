@@ -1,35 +1,25 @@
 {
-  "generated_at": "2026-06-14",
+  "generated_at": "2026-06-15",
   "fastest_growing_roles": [
     {
-      "role": "Research and Analysis Officer",
+      "role": "Senior Executive, Cargo Sales",
       "change_pct": 100,
-      "city": "Manila"
+      "city": "Philippines"
     },
     {
-      "role": "Customer Assistance Specialist",
+      "role": "I.T Staff",
       "change_pct": 100,
-      "city": "Manila"
+      "city": "Philippines"
     },
     {
-      "role": "Student Marketeer - Manila & Cebu (with Distribution Partner)",
+      "role": "Senior Account Officer",
       "change_pct": 100,
-      "city": "Manila"
+      "city": "Philippines"
     },
     {
-      "role": "Middle Data Analyst",
+      "role": "Expert Video Editor",
       "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Senior Data Analyst – End User Transformation Services",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Data Analyst, Remote",
-      "change_pct": 100,
-      "city": "Manila"
+      "city": "Philippines"
     }
   ],
   "most_in_demand_skills": [
@@ -40,26 +30,26 @@
     "power bi",
     "react",
     "html",
-    "tableau",
     "javascript",
+    "tableau",
     "aws",
-    "salesforce",
+    "php",
     "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 245,
+      "count": 256,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 86,
+      "count": 92,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 16,
+      "count": 17,
       "change_pct": 0
     },
     {
@@ -69,72 +59,51 @@
     },
     {
       "city": "Batangas City",
-      "count": 3,
+      "count": 4,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings account for 31% of total listings.",
-    "Experience levels are senior: 115, mid: 109, entry: 40.",
-    "Median salary range is PHP 47,500–65,000/month."
+    "New roles emerged in various fields, including cargo sales and IT.",
+    "Remote job listings account for 31% of total listings.",
+    "Salary data is available for 9 postings, with a median range of PHP 45,000–60,000/month."
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
+      "city": "Philippines",
+      "min": 45000,
+      "max": 60000,
+      "n": 5
     },
     {
       "role": "Sr. Data Analyst",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
+      "city": "Philippines",
+      "min": 45000,
+      "max": 60000,
+      "n": 4
     },
     {
       "role": "Senior Accounting Specialist",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
+      "city": "Philippines",
+      "min": 45000,
+      "max": 60000,
+      "n": 4
     },
     {
       "role": "Software Engineer",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
+      "city": "Philippines",
+      "min": 45000,
+      "max": 60000,
+      "n": 4
     },
     {
-      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
-    },
-    {
-      "role": "Accounting Associates",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
-    },
-    {
-      "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
-    },
-    {
-      "role": "Finance Manager - CDC Tuberculosis Activity - Philippines",
-      "city": "Manila",
-      "min": 47500,
-      "max": 65000,
-      "n": 1
+      "role": "Marketing Manager, Philippines",
+      "city": "Philippines",
+      "min": 45000,
+      "max": 60000,
+      "n": 3
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with Manila being the top hiring city. In-demand skills include Excel, SQL, and Python, while remote listings account for 31% of total listings. Median salary range is PHP 47,500–65,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in various fields. Remote job listings account for 31% of total listings, and salary data is available for 9 postings, with a median range of PHP 45,000–60,000/month."
 }
