@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-15",
+  "generated_at": "2026-06-16",
   "fastest_growing_roles": [
     {
-      "role": "Senior Executive, Cargo Sales",
+      "role": "EUC Support Engineer",
       "change_pct": 100,
-      "city": "Philippines"
+      "city": "Manila"
     },
     {
-      "role": "I.T Staff",
+      "role": "Associate III, Sales Support (Day Shift | Quoting and Ordering)",
       "change_pct": 100,
-      "city": "Philippines"
+      "city": "Manila"
     },
     {
-      "role": "Senior Account Officer",
+      "role": "15 Customer Service Consultant to start on July, 6, 2026",
       "change_pct": 100,
-      "city": "Philippines"
+      "city": "Manila"
     },
     {
-      "role": "Expert Video Editor",
+      "role": "Sales Development Representative Part-Time (Solar Industry -UK Market)",
       "change_pct": 100,
-      "city": "Philippines"
+      "city": "Manila"
     }
   ],
   "most_in_demand_skills": [
@@ -29,32 +29,32 @@
     "agile",
     "power bi",
     "react",
-    "html",
     "javascript",
-    "tableau",
     "aws",
+    "tableau",
+    "html",
     "php",
     "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 256,
+      "count": 270,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 92,
+      "count": 97,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 17,
+      "count": 18,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 11,
+      "count": 13,
       "change_pct": 0
     },
     {
@@ -64,46 +64,39 @@
     }
   ],
   "notable_shifts": [
-    "New roles emerged in various fields, including cargo sales and IT.",
-    "Remote job listings account for 31% of total listings.",
-    "Salary data is available for 9 postings, with a median range of PHP 45,000–60,000/month."
+    "Remote listings increased to 32%",
+    "New roles emerged in EUC Support Engineer and Associate III, Sales Support (Day Shift | Quoting and Ordering)",
+    "Salary data available for 10 postings with a median range of PHP 37,500–60,000/month"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
-      "city": "Philippines",
-      "min": 45000,
+      "city": "Manila",
+      "min": 37500,
       "max": 60000,
-      "n": 5
+      "n": 6
     },
     {
       "role": "Sr. Data Analyst",
-      "city": "Philippines",
-      "min": 45000,
+      "city": "Manila",
+      "min": 37500,
       "max": 60000,
       "n": 4
     },
     {
       "role": "Senior Accounting Specialist",
-      "city": "Philippines",
-      "min": 45000,
+      "city": "Manila",
+      "min": 37500,
       "max": 60000,
       "n": 4
     },
     {
       "role": "Software Engineer",
-      "city": "Philippines",
-      "min": 45000,
+      "city": "Manila",
+      "min": 37500,
       "max": 60000,
       "n": 4
-    },
-    {
-      "role": "Marketing Manager, Philippines",
-      "city": "Philippines",
-      "min": 45000,
-      "max": 60000,
-      "n": 3
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in various fields. Remote job listings account for 31% of total listings, and salary data is available for 9 postings, with a median range of PHP 45,000–60,000/month."
+  "summary_text": "The Philippine job market is experiencing growth with new roles emerging and increased demand for remote listings. The top hiring cities remain Manila and the Philippines, with a strong demand for data analysts and software engineers. Salary data suggests a median range of PHP 37,500–60,000/month."
 }
