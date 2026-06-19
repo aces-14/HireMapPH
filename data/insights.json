@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-18",
+  "generated_at": "2026-06-19",
   "fastest_growing_roles": [
     {
-      "role": "Sr. Operations Manager",
+      "role": "Technician IV",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Academic Sales Advisor /Sales Representative",
+      "role": "Service Delivery Manager – Cloud",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Customer Service Advisor",
+      "role": "Customer Assistance Specialist",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Executive, Sales (Philippines)",
+      "role": "Full Stack Software Engineer",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -29,27 +29,25 @@
     "agile",
     "power bi",
     "react",
-    "tableau",
     "javascript",
+    "tableau",
     "aws",
-    "html",
-    "php",
-    "java"
+    "html"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 296,
+      "count": 317,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 105,
+      "count": 110,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 20,
+      "count": 22,
       "change_pct": 0
     },
     {
@@ -58,59 +56,59 @@
       "change_pct": 0
     },
     {
-      "city": "Batangas City",
-      "count": 4,
+      "city": "Cebu",
+      "count": 9,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "31% of listings are remote.",
-    "The most in-demand skills are mostly related to data analysis and software development.",
-    "The top hiring cities are mostly located in the National Capital Region."
+    "New roles emerged in Manila, including Technician IV, Service Delivery Manager – Cloud, Customer Assistance Specialist, and Full Stack Software Engineer.",
+    "The number of remote listings increased to 31%.",
+    "Salary data is available for 12 postings, with a median range of PHP 40,000–60,000/month."
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 37500,
+      "min": 40000,
       "max": 60000,
       "n": 1
     },
     {
       "role": "Sr. Data Analyst",
       "city": "Manila",
-      "min": 37500,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Senior Accounting Specialist",
-      "city": "Manila",
-      "min": 37500,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
-      "city": "Manila",
-      "min": 37500,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Software Engineer",
-      "city": "Manila",
-      "min": 37500,
+      "min": 40000,
       "max": 60000,
       "n": 1
     },
     {
       "role": "Principal Software Engineer",
       "city": "Manila",
-      "min": 37500,
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Senior Accounting Specialist",
+      "city": "Manila",
+      "min": 40000,
       "max": 60000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth in demand for data analysis and software development skills. The top hiring cities are mostly located in the National Capital Region, with Manila being the top hiring city. Remote listings account for 31% of the total listings."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila and a 31% increase in remote listings. Salary data is available for 12 postings, with a median range of PHP 40,000–60,000/month."
 }
