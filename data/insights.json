@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-06-20",
+  "generated_at": "2026-06-21",
   "fastest_growing_roles": [
     {
-      "role": "Software Engineer, Securities Ops",
+      "role": "Data Analyst",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Sales Operations",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Python Software Engineer II — Data",
+      "role": "Virtual Executive Assistant Philippines",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Software Engineer, Data Infrastructure & Acquisition - Manila, Philippines",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Software Engineer 2",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Courier",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Sr. Database Administrator [Snowflake] {Hybrid} ",
+      "role": "Sales Account Manager for Philippines & Regional Schools",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -42,14 +32,12 @@
     "javascript",
     "tableau",
     "aws",
-    "html",
-    "php",
-    "java"
+    "html"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 320,
+      "count": 323,
       "change_pct": 0
     },
     {
@@ -68,59 +56,73 @@
       "change_pct": 0
     },
     {
-      "city": "Cebu City",
-      "count": 5,
+      "city": "Makati",
+      "count": 9,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 30%",
-    "New roles emerged in Manila, including Software Engineer, Securities Ops and Python Software Engineer II — Data",
-    "Salary data available for 12 postings, with a median range of PHP 40,000–60,000/month"
+    "Remote listings increased by 30%",
+    "New roles emerged in Sales Operations and Virtual Executive Assistant Philippines",
+    "Customs Associate and Customer Service Advisor roles appeared"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
-      "city": "",
+      "city": "Manila",
       "min": 40000,
       "max": 60000,
       "n": 1
     },
     {
       "role": "Sr. Data Analyst",
-      "city": "",
-      "min": 40000,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Software Engineer",
-      "city": "",
-      "min": 40000,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
-      "city": "",
-      "min": 40000,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Principal Software Engineer",
-      "city": "",
+      "city": "Manila",
       "min": 40000,
       "max": 60000,
       "n": 1
     },
     {
       "role": "Senior Accounting Specialist",
-      "city": "",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Principal Software Engineer",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Accounting Associates",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Data Analyst I",
+      "city": "Manila",
       "min": 40000,
       "max": 60000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila and increased demand for remote listings. The most in-demand skills include Excel, SQL, and Python, while the top hiring cities are Manila, Philippines, and Taguig."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Sales Operations and Virtual Executive Assistant Philippines. Remote listings increased by 30%, and the most in-demand skills include Excel, SQL, and Python."
 }
