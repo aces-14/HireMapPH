@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "fastest_growing_roles": [
     {
-      "role": "Account Executive",
-      "change_pct": 100,
+      "role": "Data Analyst",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Experiments Team Manager",
-      "change_pct": 100,
+      "role": "Accounting Associates",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Experiments Specialist, Customer Service Operations",
-      "change_pct": -100,
+      "role": "Customer Service Advisor",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
@@ -62,9 +62,8 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 30%",
-    "Data Analyst roles are in high demand",
-    "Salary range is PHP 40,000–60,000/month"
+    "New listings for Cashier at SM Bicutan",
+    "Decrease in Account Executive and Experiments Team Manager listings"
   ],
   "salary_highlights": [
     {
@@ -76,20 +75,6 @@
     },
     {
       "role": "Sr. Data Analyst",
-      "city": "Manila",
-      "min": 40000,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Principal Software Engineer",
-      "city": "Manila",
-      "min": 40000,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
       "city": "Manila",
       "min": 40000,
       "max": 60000,
@@ -108,7 +93,21 @@
       "min": 40000,
       "max": 60000,
       "n": 1
+    },
+    {
+      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Principal Software Engineer",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with a 30% increase in remote listings and high demand for Data Analyst roles. The top hiring cities are Manila, Philippines, and Taguig, with a salary range of PHP 40,000–60,000/month."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with a total of 539 active listings. The top hiring cities are Manila, Philippines, and Taguig, with a strong demand for data analysts and software engineers."
 }
