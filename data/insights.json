@@ -1,24 +1,19 @@
 {
-  "generated_at": "2026-06-24",
+  "generated_at": "2026-06-25",
   "fastest_growing_roles": [
     {
-      "role": "Data Analyst",
-      "change_pct": 0,
+      "role": "Production Merchandiser",
+      "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Accounting Associates",
-      "change_pct": 0,
+      "role": "E Commerce Account Officer",
+      "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Customer Service Advisor",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
-      "change_pct": 0,
+      "role": "Cashier at SM Bicutan",
+      "change_pct": -100,
       "city": "Manila"
     }
   ],
@@ -32,7 +27,9 @@
     "javascript",
     "tableau",
     "aws",
-    "html"
+    "html",
+    "php",
+    "java"
   ],
   "top_hiring_cities": [
     {
@@ -52,7 +49,7 @@
     },
     {
       "city": "Pasig",
-      "count": 13,
+      "count": 15,
       "change_pct": 0
     },
     {
@@ -62,8 +59,9 @@
     }
   ],
   "notable_shifts": [
-    "New listings for Cashier at SM Bicutan",
-    "Decrease in Account Executive and Experiments Team Manager listings"
+    "Remote listings increased by 30%",
+    "New roles emerged in Production Merchandising and E Commerce",
+    "Cashier role demand dropped significantly"
   ],
   "salary_highlights": [
     {
@@ -88,7 +86,7 @@
       "n": 1
     },
     {
-      "role": "Software Engineer",
+      "role": "Principal Software Engineer",
       "city": "Manila",
       "min": 40000,
       "max": 60000,
@@ -102,12 +100,26 @@
       "n": 1
     },
     {
-      "role": "Principal Software Engineer",
+      "role": "Software Engineer",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Senior Full Stack Software Engineer",
+      "city": "Manila",
+      "min": 40000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
       "city": "Manila",
       "min": 40000,
       "max": 60000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with a total of 539 active listings. The top hiring cities are Manila, Philippines, and Taguig, with a strong demand for data analysts and software engineers."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with a 30% increase in remote listings and new roles emerging in production merchandising and e commerce. However, demand for cashiers has dropped significantly. Salary ranges for various roles in Manila are between PHP 40,000 and 60,000 per month."
 }
