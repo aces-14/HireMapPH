@@ -1,19 +1,24 @@
 {
-  "generated_at": "2026-06-25",
+  "generated_at": "2026-06-26",
   "fastest_growing_roles": [
     {
-      "role": "Production Merchandiser",
-      "change_pct": 100,
+      "role": "Data Analyst",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "E Commerce Account Officer",
-      "change_pct": 100,
+      "role": "Sr. Data Analyst",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Cashier at SM Bicutan",
-      "change_pct": -100,
+      "role": "Principal Software Engineer",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Senior Accounting Specialist",
+      "change_pct": 0,
       "city": "Manila"
     }
   ],
@@ -27,9 +32,7 @@
     "javascript",
     "tableau",
     "aws",
-    "html",
-    "php",
-    "java"
+    "html"
   ],
   "top_hiring_cities": [
     {
@@ -59,9 +62,9 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 30%",
-    "New roles emerged in Production Merchandising and E Commerce",
-    "Cashier role demand dropped significantly"
+    "Remote listings account for 30% of total listings",
+    "Experience levels: senior (168), mid (144), entry (49)",
+    "Salary data available for 12 postings, with a median range of PHP 40,000–60,000/month"
   ],
   "salary_highlights": [
     {
@@ -79,14 +82,14 @@
       "n": 1
     },
     {
-      "role": "Senior Accounting Specialist",
+      "role": "Principal Software Engineer",
       "city": "Manila",
       "min": 40000,
       "max": 60000,
       "n": 1
     },
     {
-      "role": "Principal Software Engineer",
+      "role": "Senior Accounting Specialist",
       "city": "Manila",
       "min": 40000,
       "max": 60000,
@@ -105,21 +108,7 @@
       "min": 40000,
       "max": 60000,
       "n": 1
-    },
-    {
-      "role": "Senior Full Stack Software Engineer",
-      "city": "Manila",
-      "min": 40000,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Senior Marketing Manager/Director, Payments & Merchant Growth (B2B Marketing)",
-      "city": "Manila",
-      "min": 40000,
-      "max": 60000,
-      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with a 30% increase in remote listings and new roles emerging in production merchandising and e commerce. However, demand for cashiers has dropped significantly. Salary ranges for various roles in Manila are between PHP 40,000 and 60,000 per month."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila emerging as the top hiring city. In-demand skills include Excel, SQL, and Python, while remote listings account for 30% of total listings."
 }
