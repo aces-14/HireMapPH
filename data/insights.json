@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-01",
+  "generated_at": "2026-07-02",
   "fastest_growing_roles": [
     {
-      "role": "Data Analyst",
-      "change_pct": 0,
+      "role": "Store Supervisor",
+      "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Sr. Data Analyst",
-      "change_pct": 0,
+      "role": "GL Accountant CPA",
+      "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Senior Accounting Specialist",
-      "change_pct": 0,
+      "role": "Cashier",
+      "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Principal Software Engineer",
-      "change_pct": 0,
+      "role": "Sales Manager for IT Solutions",
+      "change_pct": 100,
       "city": "Manila"
     }
   ],
@@ -47,12 +47,12 @@
     },
     {
       "city": "Taguig",
-      "count": 22,
+      "count": 24,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 15,
+      "count": 17,
       "change_pct": 0
     },
     {
@@ -62,9 +62,9 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings account for 30% of total listings",
-    "Senior roles dominate experience levels with 168 listings",
-    "Median salary range is PHP 40,000–60,000/month"
+    "Remote listings increased by 29%",
+    "New roles emerged in Manila",
+    "Salary data available for 12 postings"
   ],
   "salary_highlights": [
     {
@@ -124,5 +124,5 @@
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing steady growth with a strong demand for data analysts and software engineers. Remote listings account for 30% of total listings, and senior roles dominate experience levels. The median salary range is PHP 40,000–60,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila and increased remote listings. Salary data is available for 12 postings, with a median range of PHP 40,000–60,000/month. The most in-demand skills include excel, sql, and python."
 }
