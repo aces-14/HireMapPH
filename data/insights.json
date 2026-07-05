@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-04",
+  "generated_at": "2026-07-05",
   "fastest_growing_roles": [
     {
-      "role": "Data Analyst",
+      "role": "2nd Cook (2/C) / Assistant Cook",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Software Engineer, iOS",
+      "role": "Sales Associate",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Software Engineer (Front-end)",
+      "role": "Operations Assistant",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Full Stack Software Engineer",
+      "role": "Marketing Director - Global Pharma",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -29,8 +29,8 @@
     "agile",
     "power bi",
     "javascript",
-    "react",
-    "html"
+    "html",
+    "react"
   ],
   "top_hiring_cities": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "city": "Philippines",
-      "count": 120,
+      "count": 122,
       "change_pct": 0
     },
     {
@@ -60,32 +60,53 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 30%",
-    "Data Analyst role saw significant growth",
-    "New roles emerged in software engineering"
+    "Remote listings increased by 30%",
+    "New roles emerged in various sectors",
+    "Experience levels show a balanced distribution"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 47500,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Sr. Data Analyst",
-      "city": "Manila",
-      "min": 47500,
+      "min": 50000,
       "max": 60000,
       "n": 1
     },
     {
       "role": "Full Stack Software Engineer",
       "city": "Manila",
-      "min": 47500,
+      "min": 50000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer",
+      "city": "Manila",
+      "min": 50000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
+      "city": "Manila",
+      "min": 50000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Sr. Data Analyst",
+      "city": "Manila",
+      "min": 50000,
+      "max": 60000,
+      "n": 1
+    },
+    {
+      "role": "Principal Software Engineer",
+      "city": "Manila",
+      "min": 50000,
       "max": 60000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth in demand for data analysts and software engineers, with Manila emerging as a top hiring city. Remote listings have increased, and new roles have emerged in software engineering. Salary data suggests a median range of PHP 47,500–60,000/month."
+  "summary_text": "The Philippine job market is experiencing a moderate growth with a balanced distribution of experience levels. New roles emerged in various sectors, and remote listings increased by 30%. The top hiring cities remain Manila, Philippines, and Taguig."
 }
