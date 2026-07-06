@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-05",
+  "generated_at": "2026-07-06",
   "fastest_growing_roles": [
     {
-      "role": "2nd Cook (2/C) / Assistant Cook",
+      "role": "Senior Software Engineer (Fullstack)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Sales Associate",
+      "role": "Lead Software Engineer (Architecture and Design)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Operations Assistant",
+      "role": "Senior Software Developer",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Marketing Director - Global Pharma",
+      "role": "Backend Software Engineer - Finance Super App (Philippines)",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -27,20 +27,20 @@
     "sql",
     "python",
     "agile",
-    "power bi",
     "javascript",
-    "html",
-    "react"
+    "power bi",
+    "react",
+    "html"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 365,
+      "count": 332,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 122,
+      "count": 103,
       "change_pct": 0
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "city": "Pasig",
-      "count": 17,
+      "count": 16,
       "change_pct": 0
     },
     {
@@ -61,52 +61,31 @@
   ],
   "notable_shifts": [
     "Remote listings increased by 30%",
-    "New roles emerged in various sectors",
-    "Experience levels show a balanced distribution"
+    "Senior roles are in high demand",
+    "New roles emerged in Manila"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
       "min": 50000,
-      "max": 60000,
+      "max": 65000,
       "n": 1
     },
     {
       "role": "Full Stack Software Engineer",
       "city": "Manila",
       "min": 50000,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Software Engineer",
-      "city": "Manila",
-      "min": 50000,
-      "max": 60000,
+      "max": 65000,
       "n": 1
     },
     {
       "role": "2026-7974 Data Analyst - Senior (Night Shift)",
       "city": "Manila",
       "min": 50000,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Sr. Data Analyst",
-      "city": "Manila",
-      "min": 50000,
-      "max": 60000,
-      "n": 1
-    },
-    {
-      "role": "Principal Software Engineer",
-      "city": "Manila",
-      "min": 50000,
-      "max": 60000,
+      "max": 65000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing a moderate growth with a balanced distribution of experience levels. New roles emerged in various sectors, and remote listings increased by 30%. The top hiring cities remain Manila, Philippines, and Taguig."
+  "summary_text": "The Philippine job market is experiencing growth, with a 30% increase in remote listings and high demand for senior roles. New roles emerged in Manila, and the top hiring cities remain Manila, Philippines, and Taguig."
 }
