@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "fastest_growing_roles": [
     {
-      "role": "Data Analyst",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Full Stack Software Engineer",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Associate Manager, Business Development, Hotels, Philippines",
+      "role": "CLERK II",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "MASS HIRING | HEALTHCARE BPO PROFESSIONALS (PHRN/USRN)",
+      "role": "SUPERINTENDENT YARD",
       "change_pct": 100,
       "city": "Manila"
+    },
+    {
+      "role": "DRILLING SUPERVISOR",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Service Crew - Abreeza Mall, Davao",
+      "change_pct": 100,
+      "city": "Davao"
     }
   ],
   "most_in_demand_skills": [
@@ -30,39 +30,43 @@
     "javascript",
     "power bi",
     "react",
-    "ci/cd"
+    "ci/cd",
+    "tableau",
+    "aws",
+    "html",
+    "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 338,
+      "count": 347,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 108,
+      "count": 112,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 26,
+      "count": 24,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 17,
+      "count": 18,
       "change_pct": 0
     },
     {
       "city": "Makati",
-      "count": 12,
+      "count": 13,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "New roles emerged in Manila, including Associate Manager, Business Development, Hotels, Philippines and MASS HIRING | HEALTHCARE BPO PROFESSIONALS (PHRN/USRN)",
-    "Counter Cashier | SM Megamall and Fragrance Sales Manager are new listings",
-    "Material Planning & Logistic Manager and Agency Coordinator are also new"
+    "New roles emerged in Manila, including CLERK II and SUPERINTENDENT YARD.",
+    "Several new roles appeared in the job market today, indicating shifting demand.",
+    "The job market in Manila remains active, with a high volume of listings."
   ],
   "salary_highlights": [
     {
@@ -80,12 +84,47 @@
       "n": 1
     },
     {
-      "role": "Senior Tax Specialist - Head Office",
+      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Marketing Campaign Manager",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Customer Service Advisor",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Marketing Director - Global Pharma",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Influencer Marketing Intern",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer - Android Developer (For Pooling)",
       "city": "Manila",
       "min": 50000,
       "max": 70000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila. The most in-demand skills remain technical, with Excel and SQL leading the pack. Salary data is limited, but available roles offer a median range of PHP 50,000–70,000/month."
+  "summary_text": "The Philippine job market remains active, with a high volume of listings in Manila. New roles emerged in various sectors, indicating shifting demand. Salary data suggests a median range of PHP 50,000–70,000/month for certain roles."
 }
