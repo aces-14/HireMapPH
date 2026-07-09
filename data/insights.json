@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "fastest_growing_roles": [
     {
-      "role": "CLERK II",
+      "role": "Global Benefits Management Analyst",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "SUPERINTENDENT YARD",
+      "role": "Records Management Analyst I",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "DRILLING SUPERVISOR",
+      "role": "Senior Labor and Employment Officer",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Service Crew - Abreeza Mall, Davao",
+      "role": "Court Stenographer I",
       "change_pct": 100,
-      "city": "Davao"
+      "city": "Manila"
     }
   ],
   "most_in_demand_skills": [
@@ -30,26 +30,26 @@
     "javascript",
     "power bi",
     "react",
-    "ci/cd",
-    "tableau",
     "aws",
+    "tableau",
+    "ci/cd",
     "html",
     "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 347,
+      "count": 345,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 112,
+      "count": 110,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 24,
+      "count": 22,
       "change_pct": 0
     },
     {
@@ -64,9 +64,9 @@
     }
   ],
   "notable_shifts": [
-    "New roles emerged in Manila, including CLERK II and SUPERINTENDENT YARD.",
-    "Several new roles appeared in the job market today, indicating shifting demand.",
-    "The job market in Manila remains active, with a high volume of listings."
+    "Remote listings increased by 31%",
+    "Senior roles account for 30.5% of total listings",
+    "Data Analyst is the most common role"
   ],
   "salary_highlights": [
     {
@@ -91,14 +91,14 @@
       "n": 1
     },
     {
-      "role": "Marketing Campaign Manager",
+      "role": "Accounting Specialist",
       "city": "Manila",
       "min": 50000,
       "max": 70000,
       "n": 1
     },
     {
-      "role": "Customer Service Advisor",
+      "role": "Marketing Campaign Manager",
       "city": "Manila",
       "min": 50000,
       "max": 70000,
@@ -112,19 +112,12 @@
       "n": 1
     },
     {
-      "role": "Influencer Marketing Intern",
-      "city": "Manila",
-      "min": 50000,
-      "max": 70000,
-      "n": 1
-    },
-    {
-      "role": "Software Engineer - Android Developer (For Pooling)",
+      "role": "Senior Accounting Specialist",
       "city": "Manila",
       "min": 50000,
       "max": 70000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market remains active, with a high volume of listings in Manila. New roles emerged in various sectors, indicating shifting demand. Salary data suggests a median range of PHP 50,000–70,000/month for certain roles."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with a 31% increase in remote listings and a 30.5% share of senior roles. Data Analyst is the most common role, and in-demand skills include Excel, SQL, and Python."
 }
