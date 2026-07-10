@@ -1,24 +1,34 @@
 {
-  "generated_at": "2026-07-09",
+  "generated_at": "2026-07-10",
   "fastest_growing_roles": [
     {
+      "role": "SUPERVISOR LIFTING",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Technology Analyst 3",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Accounts Receivable Representative",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "METAL PRINTING OPERATOR",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Project Assistant",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
       "role": "Global Benefits Management Analyst",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Records Management Analyst I",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Senior Labor and Employment Officer",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Court Stenographer I",
-      "change_pct": 100,
+      "change_pct": 0,
       "city": "Manila"
     }
   ],
@@ -32,9 +42,9 @@
     "react",
     "aws",
     "tableau",
+    "azure",
     "ci/cd",
-    "html",
-    "azure"
+    "r"
   ],
   "top_hiring_cities": [
     {
@@ -44,12 +54,12 @@
     },
     {
       "city": "Philippines",
-      "count": 110,
+      "count": 113,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 22,
+      "count": 23,
       "change_pct": 0
     },
     {
@@ -59,65 +69,72 @@
     },
     {
       "city": "Makati",
-      "count": 13,
+      "count": 16,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 31%",
-    "Senior roles account for 30.5% of total listings",
-    "Data Analyst is the most common role"
+    "New roles emerged in Manila, including Supervisor Lifting and Technology Analyst 3.",
+    "The number of remote listings remains at 32%.",
+    "Salary data is available for 10 postings, with a median range of PHP 50,000–72,500/month."
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
+      "max": 72500,
       "n": 1
     },
     {
       "role": "Full Stack Software Engineer",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
+      "max": 72500,
+      "n": 1
+    },
+    {
+      "role": "Court Stenographer I",
+      "city": "Manila",
+      "min": 50000,
+      "max": 72500,
       "n": 1
     },
     {
       "role": "2026-7974 Data Analyst - Senior (Night Shift)",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
-      "n": 1
-    },
-    {
-      "role": "Accounting Specialist",
-      "city": "Manila",
-      "min": 50000,
-      "max": 70000,
-      "n": 1
-    },
-    {
-      "role": "Marketing Campaign Manager",
-      "city": "Manila",
-      "min": 50000,
-      "max": 70000,
+      "max": 72500,
       "n": 1
     },
     {
       "role": "Marketing Director - Global Pharma",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
+      "max": 72500,
+      "n": 1
+    },
+    {
+      "role": "Marketing Assistant",
+      "city": "Manila",
+      "min": 50000,
+      "max": 72500,
       "n": 1
     },
     {
       "role": "Senior Accounting Specialist",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
+      "max": 72500,
+      "n": 1
+    },
+    {
+      "role": "Marketing Manager, Philippines",
+      "city": "Manila",
+      "min": 50000,
+      "max": 72500,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with a 31% increase in remote listings and a 30.5% share of senior roles. Data Analyst is the most common role, and in-demand skills include Excel, SQL, and Python."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila. The most in-demand skills remain technical, with a focus on data analysis and software development. Remote listings remain at 32% of total listings."
 }
