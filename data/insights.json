@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-07-11",
+  "generated_at": "2026-07-12",
   "fastest_growing_roles": [
     {
-      "role": "SUPERVISOR LIFTING",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Sales/ Account Executive",
+      "role": "Registered Medical Technologist (RMT) - Home Blood Extraction",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Client Receivables and Bank Team Lead (Makati and BGC)",
+      "role": "Court Stenographer I",
       "change_pct": 100,
-      "city": "Makati"
+      "city": "Manila"
     },
     {
-      "role": "HR Admin Support",
+      "role": "IT Senior Software Engineer in Manila",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Software Engineer 2",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Reporting Analyst / Data Analyst - Cebu",
+      "change_pct": 100,
+      "city": "Cebu City"
+    },
+    {
+      "role": "Marketing Data Analyst: Growth & Insights in Crypto",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -29,20 +39,22 @@
     "agile",
     "power bi",
     "javascript",
-    "react",
     "tableau",
+    "react",
     "ci/cd",
-    "azure"
+    "r",
+    "typescript",
+    "aws"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 339,
+      "count": 323,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 116,
+      "count": 111,
       "change_pct": 0
     },
     {
@@ -62,32 +74,67 @@
     }
   ],
   "notable_shifts": [
-    "New roles appeared in Manila, Makati, and Taguig.",
-    "Sales/ Account Executive and HR Admin Support roles are new.",
-    "Python Software Engineer and Junior Software Engineer roles are new."
+    "Remote listings increased to 31%",
+    "New roles emerged in Manila and Cebu City",
+    "Data Analyst and Full Stack Software Engineer remain in-demand"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
-      "city": "Manila",
+      "city": "Cebu City",
       "min": 50000,
-      "max": 72500,
+      "max": 70000,
       "n": 1
     },
     {
       "role": "Full Stack Software Engineer",
       "city": "Manila",
       "min": 50000,
-      "max": 72500,
+      "max": 70000,
       "n": 1
     },
     {
-      "role": "Marketing Manager, Philippines",
+      "role": "Court Stenographer I",
       "city": "Manila",
       "min": 50000,
-      "max": 72500,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Marketing Assistant",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer - Information Technology",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Marketing Director - Global Pharma",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Customer Service Advisor",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer in Test",
+      "city": "Manila",
+      "min": 50000,
+      "max": 70000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth with a total of 590 active listings. Top hiring cities include Manila, Philippines, and Taguig, while in-demand skills include Excel, SQL, and Python."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila and Cebu City. Data Analyst and Full Stack Software Engineer remain in-demand, while remote listings have increased to 31%. Salary data is limited, but available roles offer a median range of PHP 50,000–70,000/month."
 }
