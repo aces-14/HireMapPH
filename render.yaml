@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: hiremapph-backend
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: RAPIDAPI_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
