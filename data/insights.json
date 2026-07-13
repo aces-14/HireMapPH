@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-12",
+  "generated_at": "2026-07-13",
   "fastest_growing_roles": [
     {
-      "role": "Registered Medical Technologist (RMT) - Home Blood Extraction",
+      "role": "Head of Sales (Food Ingredients)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Court Stenographer I",
+      "role": "QA INSPECTOR",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "IT Senior Software Engineer in Manila",
+      "role": "VA/Creatives Customer Support (Adobe) US Shift Onsite",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Software Engineer 2",
+      "role": "Operations Analyst",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Reporting Analyst / Data Analyst - Cebu",
+      "role": "Penetration Tester",
       "change_pct": 100,
-      "city": "Cebu City"
+      "city": "Manila"
     },
     {
-      "role": "Marketing Data Analyst: Growth & Insights in Crypto",
+      "role": "GIS Developer Software Engineer 3",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -39,17 +39,17 @@
     "agile",
     "power bi",
     "javascript",
-    "tableau",
     "react",
     "ci/cd",
+    "tableau",
+    "aws",
     "r",
-    "typescript",
-    "aws"
+    "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 323,
+      "count": 335,
       "change_pct": 0
     },
     {
@@ -74,67 +74,67 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 31%",
-    "New roles emerged in Manila and Cebu City",
-    "Data Analyst and Full Stack Software Engineer remain in-demand"
+    "Remote listings increased by 30%",
+    "Experience levels: mid (179), senior (170), entry (43)",
+    "Salary data available for 10 postings with a median range of PHP 50,000–72,500/month"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
-      "city": "Cebu City",
+      "city": "Manila",
       "min": 50000,
-      "max": 70000,
+      "max": 72500,
       "n": 1
     },
     {
       "role": "Full Stack Software Engineer",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
+      "max": 72500,
       "n": 1
     },
     {
       "role": "Court Stenographer I",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
-      "n": 1
-    },
-    {
-      "role": "Marketing Assistant",
-      "city": "Manila",
-      "min": 50000,
-      "max": 70000,
+      "max": 72500,
       "n": 1
     },
     {
       "role": "Software Engineer - Information Technology",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
+      "max": 72500,
       "n": 1
     },
     {
-      "role": "Marketing Director - Global Pharma",
+      "role": "Marketing Campaign Manager",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
-      "n": 1
-    },
-    {
-      "role": "Customer Service Advisor",
-      "city": "Manila",
-      "min": 50000,
-      "max": 70000,
+      "max": 72500,
       "n": 1
     },
     {
       "role": "Software Engineer in Test",
       "city": "Manila",
       "min": 50000,
-      "max": 70000,
+      "max": 72500,
+      "n": 1
+    },
+    {
+      "role": "Marketing Assistant",
+      "city": "Manila",
+      "min": 50000,
+      "max": 72500,
+      "n": 1
+    },
+    {
+      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
+      "city": "Manila",
+      "min": 50000,
+      "max": 72500,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila and Cebu City. Data Analyst and Full Stack Software Engineer remain in-demand, while remote listings have increased to 31%. Salary data is limited, but available roles offer a median range of PHP 50,000–70,000/month."
+  "summary_text": "The Philippine job market is experiencing growth with 585 active listings, with Manila being the top hiring city. In-demand skills include excel, sql, and python, while remote listings have increased by 30%. Salary data is available for 10 postings with a median range of PHP 50,000–72,500/month."
 }
