@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-13",
+  "generated_at": "2026-07-14",
   "fastest_growing_roles": [
     {
-      "role": "Head of Sales (Food Ingredients)",
+      "role": "Customer Service Representative (Airline Bookings & Reservations)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "QA INSPECTOR",
+      "role": "Financial Sales Associate",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "VA/Creatives Customer Support (Adobe) US Shift Onsite",
+      "role": "Onsite Support - Real Page",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Operations Analyst",
+      "role": "Financial Recruiter",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Penetration Tester",
+      "role": "No Code Developer",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "GIS Developer Software Engineer 3",
+      "role": "People & Culture Shared Service Team Member | Work From Office",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -40,21 +40,21 @@
     "power bi",
     "javascript",
     "react",
-    "ci/cd",
-    "tableau",
     "aws",
-    "r",
-    "azure"
+    "tableau",
+    "ci/cd",
+    "azure",
+    "r"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 335,
+      "count": 355,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 111,
+      "count": 113,
       "change_pct": 0
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "city": "Pasig",
-      "count": 18,
+      "count": 19,
       "change_pct": 0
     },
     {
@@ -74,67 +74,67 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 30%",
-    "Experience levels: mid (179), senior (170), entry (43)",
-    "Salary data available for 10 postings with a median range of PHP 50,000–72,500/month"
+    "Remote listings account for 31% of total listings",
+    "Median salary range is PHP 52,500–75,000/month",
+    "Experience levels: mid (189), senior (179), entry (47)"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 50000,
-      "max": 72500,
+      "min": 52500,
+      "max": 75000,
       "n": 1
     },
     {
       "role": "Full Stack Software Engineer",
       "city": "Manila",
-      "min": 50000,
-      "max": 72500,
+      "min": 52500,
+      "max": 75000,
       "n": 1
     },
     {
       "role": "Court Stenographer I",
       "city": "Manila",
-      "min": 50000,
-      "max": 72500,
+      "min": 52500,
+      "max": 75000,
       "n": 1
     },
     {
-      "role": "Software Engineer - Information Technology",
+      "role": "Customer Service Advisor",
       "city": "Manila",
-      "min": 50000,
-      "max": 72500,
-      "n": 1
-    },
-    {
-      "role": "Marketing Campaign Manager",
-      "city": "Manila",
-      "min": 50000,
-      "max": 72500,
+      "min": 52500,
+      "max": 75000,
       "n": 1
     },
     {
       "role": "Software Engineer in Test",
       "city": "Manila",
-      "min": 50000,
-      "max": 72500,
+      "min": 52500,
+      "max": 75000,
       "n": 1
     },
     {
       "role": "Marketing Assistant",
       "city": "Manila",
-      "min": 50000,
-      "max": 72500,
+      "min": 52500,
+      "max": 75000,
       "n": 1
     },
     {
-      "role": "2026-7974 Data Analyst - Senior (Night Shift)",
+      "role": "Software Engineer - Information Technology",
       "city": "Manila",
-      "min": 50000,
-      "max": 72500,
+      "min": 52500,
+      "max": 75000,
+      "n": 1
+    },
+    {
+      "role": "Senior Accounting Specialist",
+      "city": "Manila",
+      "min": 52500,
+      "max": 75000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth with 585 active listings, with Manila being the top hiring city. In-demand skills include excel, sql, and python, while remote listings have increased by 30%. Salary data is available for 10 postings with a median range of PHP 50,000–72,500/month."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila emerging as the top hiring city. In-demand skills include Excel, SQL, and Python, while remote listings account for 31% of total listings."
 }
