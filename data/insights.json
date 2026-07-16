@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-16",
   "fastest_growing_roles": [
     {
-      "role": "Junior Data Analyst, Global Meeting Services - EMEA",
+      "role": "Senior Software Engineer",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Finance Manager - Pasig City",
-      "change_pct": 100,
-      "city": "Pasig"
-    },
-    {
-      "role": "Market Economist",
+      "role": "Customer Service Representative",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Lead Full Stack Software Engineer",
+      "role": "Chief Officer (C/O) | Tanker - Crude Oil | World wide",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Area Sales Manager",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Acting Claims Examiner",
+      "role": "Workday Financial Consultant",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -38,28 +28,28 @@
     "python",
     "agile",
     "power bi",
-    "javascript",
     "aws",
     "ci/cd",
+    "javascript",
     "react",
     "tableau",
-    "azure",
-    "r"
+    "r",
+    "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 365,
+      "count": 361,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 113,
+      "count": 111,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 22,
+      "count": 21,
       "change_pct": 0
     },
     {
@@ -74,60 +64,67 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 30%",
-    "New roles emerged in Manila and Pasig",
-    "Demand for Data Analysts and Full Stack Software Engineers remains high"
+    "Remote listings increased by 30%",
+    "Median salary range is PHP 56,000–94,000/month",
+    "Experience levels: mid (189), senior (180), entry (56)"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 55000,
-      "max": 84500,
+      "min": 56000,
+      "max": 94000,
       "n": 1
     },
     {
       "role": "Full Stack Software Engineer",
       "city": "Manila",
-      "min": 55000,
-      "max": 84500,
+      "min": 56000,
+      "max": 94000,
       "n": 1
     },
     {
-      "role": "Senior Accounting Specialist",
+      "role": "Court Stenographer I",
       "city": "Manila",
-      "min": 55000,
-      "max": 84500,
-      "n": 1
-    },
-    {
-      "role": "Software Engineer - Information Technology",
-      "city": "Manila",
-      "min": 55000,
-      "max": 84500,
-      "n": 1
-    },
-    {
-      "role": "Marketing Campaign Manager",
-      "city": "Manila",
-      "min": 55000,
-      "max": 84500,
+      "min": 56000,
+      "max": 94000,
       "n": 1
     },
     {
       "role": "Customer Service Advisor",
       "city": "Manila",
-      "min": 55000,
-      "max": 84500,
+      "min": 56000,
+      "max": 94000,
       "n": 1
     },
     {
       "role": "Software Engineer in Test",
       "city": "Manila",
-      "min": 55000,
-      "max": 84500,
+      "min": 56000,
+      "max": 94000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer 2",
+      "city": "Manila",
+      "min": 56000,
+      "max": 94000,
+      "n": 1
+    },
+    {
+      "role": "Junior Data Analyst, Global Meeting Services - EMEA",
+      "city": "Manila",
+      "min": 56000,
+      "max": 94000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer - Information Technology",
+      "city": "Manila",
+      "min": 56000,
+      "max": 94000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market remains competitive, with Manila emerging as the top hiring city. Demand for Data Analysts and Full Stack Software Engineers continues to grow, while remote listings have increased to 30%. Salary ranges for these roles are between PHP 55,500 and 84,500 per month."
+  "summary_text": "The Philippine job market is experiencing growth in demand for tech skills and remote work opportunities. The top hiring cities are Manila, Philippines, and Taguig, with a notable increase in remote listings. The median salary range is PHP 56,000–94,000/month."
 }
