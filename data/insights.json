@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-07-16",
+  "generated_at": "2026-07-17",
   "fastest_growing_roles": [
     {
-      "role": "Senior Software Engineer",
+      "role": "Full Stack Software Engineer",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Customer Service Representative",
+      "role": "Data Analyst",
       "change_pct": 100,
       "city": "Manila"
+    },
+    {
+      "role": "Cold Caller",
+      "change_pct": 100,
+      "city": "Philippines"
     },
     {
       "role": "Chief Officer (C/O) | Tanker - Crude Oil | World wide",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Workday Financial Consultant",
-      "change_pct": 100,
-      "city": "Manila"
+      "change_pct": 0,
+      "city": "World wide"
     }
   ],
   "most_in_demand_skills": [
     "excel",
     "sql",
-    "python",
     "agile",
-    "power bi",
-    "aws",
+    "python",
     "ci/cd",
-    "javascript",
+    "aws",
     "react",
-    "tableau",
+    "power bi",
+    "javascript",
+    "azure",
     "r",
-    "azure"
+    "typescript"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 361,
+      "count": 358,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 111,
-      "change_pct": 0
-    },
-    {
-      "city": "Taguig",
-      "count": 21,
+      "count": 113,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 19,
+      "count": 20,
+      "change_pct": 0
+    },
+    {
+      "city": "Taguig",
+      "count": 20,
       "change_pct": 0
     },
     {
@@ -65,10 +65,17 @@
   ],
   "notable_shifts": [
     "Remote listings increased by 30%",
-    "Median salary range is PHP 56,000–94,000/month",
-    "Experience levels: mid (189), senior (180), entry (56)"
+    "New roles emerged in various fields",
+    "Salary data available for 11 postings"
   ],
   "salary_highlights": [
+    {
+      "role": "Full Stack Software Engineer",
+      "city": "Manila",
+      "min": 56000,
+      "max": 94000,
+      "n": 1
+    },
     {
       "role": "Data Analyst",
       "city": "Manila",
@@ -77,7 +84,28 @@
       "n": 1
     },
     {
-      "role": "Full Stack Software Engineer",
+      "role": "Senior Software Engineer",
+      "city": "Manila",
+      "min": 56000,
+      "max": 94000,
+      "n": 1
+    },
+    {
+      "role": "Junior Data Analyst",
+      "city": "Manila",
+      "min": 56000,
+      "max": 94000,
+      "n": 1
+    },
+    {
+      "role": "Global Meeting Services - EMEA",
+      "city": "Manila",
+      "min": 56000,
+      "max": 94000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer Lead C++",
       "city": "Manila",
       "min": 56000,
       "max": 94000,
@@ -91,7 +119,7 @@
       "n": 1
     },
     {
-      "role": "Customer Service Advisor",
+      "role": "Marketing Campaign Manager",
       "city": "Manila",
       "min": 56000,
       "max": 94000,
@@ -103,28 +131,7 @@
       "min": 56000,
       "max": 94000,
       "n": 1
-    },
-    {
-      "role": "Software Engineer 2",
-      "city": "Manila",
-      "min": 56000,
-      "max": 94000,
-      "n": 1
-    },
-    {
-      "role": "Junior Data Analyst, Global Meeting Services - EMEA",
-      "city": "Manila",
-      "min": 56000,
-      "max": 94000,
-      "n": 1
-    },
-    {
-      "role": "Software Engineer - Information Technology",
-      "city": "Manila",
-      "min": 56000,
-      "max": 94000,
-      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth in demand for tech skills and remote work opportunities. The top hiring cities are Manila, Philippines, and Taguig, with a notable increase in remote listings. The median salary range is PHP 56,000–94,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with a 30% increase in remote listings and new roles emerging in various fields. Salary data is available for 11 postings, with a median range of PHP 56,000–94,000/month. The top hiring cities are Manila, Philippines, Pasig, Taguig, and Makati."
 }
