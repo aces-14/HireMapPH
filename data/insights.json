@@ -1,25 +1,35 @@
 {
-  "generated_at": "2026-07-17",
+  "generated_at": "2026-07-18",
   "fastest_growing_roles": [
     {
+      "role": "Non-Voice Customer Service Representative",
+      "change_pct": 100,
+      "city": "Angeles City, Pampanga"
+    },
+    {
+      "role": "Cyber Intrusion Analyst 2",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Account Manager Level 1",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Software Engineer | Emerging Technologies",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Senior Full Stack Engineer",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
       "role": "Full Stack Software Engineer",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Data Analyst",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Cold Caller",
-      "change_pct": 100,
-      "city": "Philippines"
-    },
-    {
-      "role": "Chief Officer (C/O) | Tanker - Crude Oil | World wide",
       "change_pct": 0,
-      "city": "World wide"
+      "city": "Manila"
     }
   ],
   "most_in_demand_skills": [
@@ -27,111 +37,104 @@
     "sql",
     "agile",
     "python",
-    "ci/cd",
     "aws",
+    "ci/cd",
     "react",
     "power bi",
     "javascript",
+    "typescript",
     "azure",
-    "r",
-    "typescript"
+    "r"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 358,
+      "count": 349,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 113,
+      "count": 119,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 20,
+      "count": 17,
       "change_pct": 0
     },
     {
       "city": "Taguig",
-      "count": 20,
+      "count": 16,
       "change_pct": 0
     },
     {
       "city": "Makati",
-      "count": 18,
+      "count": 16,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 30%",
-    "New roles emerged in various fields",
-    "Salary data available for 11 postings"
+    "Remote listings account for 31% of total listings.",
+    "Mid-level positions are the most common experience level.",
+    "Median salary range is PHP 64,000–98,000/month."
   ],
   "salary_highlights": [
     {
       "role": "Full Stack Software Engineer",
       "city": "Manila",
-      "min": 56000,
-      "max": 94000,
+      "min": 64000,
+      "max": 98000,
       "n": 1
     },
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 56000,
-      "max": 94000,
+      "min": 64000,
+      "max": 98000,
       "n": 1
     },
     {
       "role": "Senior Software Engineer",
       "city": "Manila",
-      "min": 56000,
-      "max": 94000,
+      "min": 64000,
+      "max": 98000,
       "n": 1
     },
     {
-      "role": "Junior Data Analyst",
+      "role": "Marketing Director - Global Pharma",
       "city": "Manila",
-      "min": 56000,
-      "max": 94000,
+      "min": 64000,
+      "max": 98000,
       "n": 1
     },
     {
-      "role": "Global Meeting Services - EMEA",
+      "role": "Senior Accounting Specialist",
       "city": "Manila",
-      "min": 56000,
-      "max": 94000,
+      "min": 64000,
+      "max": 98000,
       "n": 1
     },
     {
-      "role": "Software Engineer Lead C++",
+      "role": "Customer Service Advisor",
       "city": "Manila",
-      "min": 56000,
-      "max": 94000,
-      "n": 1
-    },
-    {
-      "role": "Court Stenographer I",
-      "city": "Manila",
-      "min": 56000,
-      "max": 94000,
-      "n": 1
-    },
-    {
-      "role": "Marketing Campaign Manager",
-      "city": "Manila",
-      "min": 56000,
-      "max": 94000,
+      "min": 64000,
+      "max": 98000,
       "n": 1
     },
     {
       "role": "Software Engineer in Test",
       "city": "Manila",
-      "min": 56000,
-      "max": 94000,
+      "min": 64000,
+      "max": 98000,
+      "n": 1
+    },
+    {
+      "role": "Junior Data Analyst, Global Meeting Services - EMEA",
+      "city": "Manila",
+      "min": 64000,
+      "max": 98000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with a 30% increase in remote listings and new roles emerging in various fields. Salary data is available for 11 postings, with a median range of PHP 56,000–94,000/month. The top hiring cities are Manila, Philippines, Pasig, Taguig, and Makati."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila being the top hiring city. In-demand skills include Excel, SQL, and Agile, while remote listings account for 31% of total listings."
 }
