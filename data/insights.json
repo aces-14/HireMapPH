@@ -1,69 +1,54 @@
 {
-  "generated_at": "2026-07-18",
+  "generated_at": "2026-07-19",
   "fastest_growing_roles": [
     {
-      "role": "Non-Voice Customer Service Representative",
+      "role": "Education Officer (NO-2), TA (364 Days), Manila",
       "change_pct": 100,
-      "city": "Angeles City, Pampanga"
+      "city": "Manila"
     },
     {
       "role": "Cyber Intrusion Analyst 2",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Account Manager Level 1",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Software Engineer | Emerging Technologies",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Senior Full Stack Engineer",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Full Stack Software Engineer",
       "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "BPO Team Leader",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Cash Clerk III",
+      "change_pct": 100,
       "city": "Manila"
     }
   ],
   "most_in_demand_skills": [
     "excel",
     "sql",
-    "agile",
     "python",
+    "agile",
     "aws",
     "ci/cd",
     "react",
     "power bi",
     "javascript",
-    "typescript",
     "azure",
+    "typescript",
     "r"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 349,
+      "count": 351,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 119,
+      "count": 123,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 17,
-      "change_pct": 0
-    },
-    {
-      "city": "Taguig",
       "count": 16,
       "change_pct": 0
     },
@@ -71,23 +56,28 @@
       "city": "Makati",
       "count": 16,
       "change_pct": 0
+    },
+    {
+      "city": "Taguig",
+      "count": 14,
+      "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings account for 31% of total listings.",
-    "Mid-level positions are the most common experience level.",
-    "Median salary range is PHP 64,000–98,000/month."
+    "New roles emerged in Manila, including Education Officer (NO-2), TA (364 Days) and BPO Team Leader.",
+    "The demand for Cyber Intrusion Analyst 2 remains steady.",
+    "The job market in Manila continues to grow, with a total of 351 active listings."
   ],
   "salary_highlights": [
     {
-      "role": "Full Stack Software Engineer",
+      "role": "Data Analyst",
       "city": "Manila",
       "min": 64000,
       "max": 98000,
       "n": 1
     },
     {
-      "role": "Data Analyst",
+      "role": "Full Stack Software Engineer",
       "city": "Manila",
       "min": 64000,
       "max": 98000,
@@ -99,42 +89,7 @@
       "min": 64000,
       "max": 98000,
       "n": 1
-    },
-    {
-      "role": "Marketing Director - Global Pharma",
-      "city": "Manila",
-      "min": 64000,
-      "max": 98000,
-      "n": 1
-    },
-    {
-      "role": "Senior Accounting Specialist",
-      "city": "Manila",
-      "min": 64000,
-      "max": 98000,
-      "n": 1
-    },
-    {
-      "role": "Customer Service Advisor",
-      "city": "Manila",
-      "min": 64000,
-      "max": 98000,
-      "n": 1
-    },
-    {
-      "role": "Software Engineer in Test",
-      "city": "Manila",
-      "min": 64000,
-      "max": 98000,
-      "n": 1
-    },
-    {
-      "role": "Junior Data Analyst, Global Meeting Services - EMEA",
-      "city": "Manila",
-      "min": 64000,
-      "max": 98000,
-      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila being the top hiring city. In-demand skills include Excel, SQL, and Agile, while remote listings account for 31% of total listings."
+  "summary_text": "The Philippine job market continues to grow, with a total of 608 active listings. The demand for skills such as excel, sql, and python remains high, while new roles emerged in Manila. The median salary range is PHP 64,000–98,000/month."
 }
