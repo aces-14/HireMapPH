@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-19",
+  "generated_at": "2026-07-20",
   "fastest_growing_roles": [
     {
-      "role": "Education Officer (NO-2), TA (364 Days), Manila",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Cyber Intrusion Analyst 2",
+      "role": "Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "BPO Team Leader",
-      "change_pct": 100,
+      "role": "Full Stack Software Engineer",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Cash Clerk III",
+      "role": "Senior Software Engineer",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Human Resources Coordinator",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -25,48 +25,48 @@
   "most_in_demand_skills": [
     "excel",
     "sql",
-    "python",
     "agile",
+    "python",
     "aws",
     "ci/cd",
     "react",
-    "power bi",
     "javascript",
+    "power bi",
     "azure",
     "typescript",
-    "r"
+    "tableau"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 351,
+      "count": 336,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 123,
-      "change_pct": 0
-    },
-    {
-      "city": "Pasig",
-      "count": 16,
+      "count": 120,
       "change_pct": 0
     },
     {
       "city": "Makati",
-      "count": 16,
+      "count": 17,
       "change_pct": 0
     },
     {
-      "city": "Taguig",
-      "count": 14,
+      "city": "Pasig",
+      "count": 15,
+      "change_pct": 0
+    },
+    {
+      "city": "Cebu City",
+      "count": 8,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "New roles emerged in Manila, including Education Officer (NO-2), TA (364 Days) and BPO Team Leader.",
-    "The demand for Cyber Intrusion Analyst 2 remains steady.",
-    "The job market in Manila continues to grow, with a total of 351 active listings."
+    "Remote listings increased by 30%",
+    "New roles emerged in Manila and Philippines",
+    "Data Analyst and Full Stack Software Engineer demand remains high"
   ],
   "salary_highlights": [
     {
@@ -91,5 +91,5 @@
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market continues to grow, with a total of 608 active listings. The demand for skills such as excel, sql, and python remains high, while new roles emerged in Manila. The median salary range is PHP 64,000–98,000/month."
+  "summary_text": "The Philippine job market remains competitive, with Manila and Philippines emerging as top hiring cities. Data Analyst and Full Stack Software Engineer roles continue to be in high demand, while new roles emerge in various sectors."
 }
