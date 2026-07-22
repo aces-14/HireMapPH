@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-21",
+  "generated_at": "2026-07-22",
   "fastest_growing_roles": [
     {
-      "role": "Accounting Manager",
+      "role": "Maintenance Officer (Food and Beverages)",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Sr. Recruiter (Technology)",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Senior Infra Engineer: Observability",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Director, Specialist Sales, Small and Medium Enterprises - Philippines",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "IT Support Assistant (Paranaque)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
       "role": "Human Resource Management (HRM) Staff",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Kitchen Steward (SM East Ortigas)",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "BANK TELLER (MANDALUYONG/SAN JUAN)",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Customer Service Representative",
-      "change_pct": 33.33,
-      "city": "Manila"
-    },
-    {
-      "role": "Earn up to P44K! Urgent hiring for Clinical Service Desk Analyst",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -42,29 +42,29 @@
     "react",
     "azure",
     "power bi",
-    "javascript",
     "typescript",
+    "javascript",
     "tableau"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 348,
+      "count": 357,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 121,
-      "change_pct": 0
-    },
-    {
-      "city": "Makati",
-      "count": 16,
+      "count": 128,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 14,
+      "count": 16,
+      "change_pct": 0
+    },
+    {
+      "city": "Makati",
+      "count": 15,
       "change_pct": 0
     },
     {
@@ -74,9 +74,9 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 30%",
-    "Most in-demand skills remain technical",
-    "New roles emerged in various sectors"
+    "Remote listings account for 29% of total listings.",
+    "Median salary range is PHP 62,000–96,000/month.",
+    "Experience levels are mid: 195, senior: 173, entry: 61."
   ],
   "salary_highlights": [
     {
@@ -84,29 +84,29 @@
       "city": "Manila",
       "min": 62000,
       "max": 96000,
-      "n": 1
-    },
-    {
-      "role": "Senior Software Engineer",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 1
-    },
-    {
-      "role": "Full Stack Software Engineer",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 1
+      "n": 6
     },
     {
       "role": "URGENT Permanent WFH | Senior Full Stack Engineer",
       "city": "Manila",
       "min": 62000,
       "max": 96000,
-      "n": 1
+      "n": 4
+    },
+    {
+      "role": "Full Stack Software Engineer",
+      "city": "Manila",
+      "min": 62000,
+      "max": 96000,
+      "n": 4
+    },
+    {
+      "role": "Senior Software Engineer",
+      "city": "Manila",
+      "min": 62000,
+      "max": 96000,
+      "n": 4
     }
   ],
-  "summary_text": "The Philippine job market remains competitive, with a focus on technical skills and remote work opportunities. New roles emerged in various sectors, and salary ranges remain consistent. The top hiring cities continue to be Manila and the surrounding areas."
+  "summary_text": "The Philippine job market is experiencing growth, with Manila being the top hiring city. In-demand skills include excel, sql, and agile, while remote listings account for 29% of total listings. Median salary range is PHP 62,000–96,000/month."
 }
