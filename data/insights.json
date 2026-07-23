@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "fastest_growing_roles": [
     {
-      "role": "Maintenance Officer (Food and Beverages)",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
       "role": "Sr. Recruiter (Technology)",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Assembly and Industrial Mechanic",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Senior Infra Engineer: Observability",
+      "role": "Director II",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Director, Specialist Sales, Small and Medium Enterprises - Philippines",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "IT Support Assistant (Paranaque)",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Human Resource Management (HRM) Staff",
+      "role": "Senior Software Engineer, Support",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -40,21 +30,21 @@
     "aws",
     "ci/cd",
     "react",
-    "azure",
     "power bi",
-    "typescript",
+    "azure",
     "javascript",
-    "tableau"
+    "tableau",
+    "typescript"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 357,
+      "count": 372,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 128,
+      "count": 134,
       "change_pct": 0
     },
     {
@@ -64,19 +54,19 @@
     },
     {
       "city": "Makati",
-      "count": 15,
+      "count": 13,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 9,
+      "count": 10,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
+    "New roles emerged in Manila, including Assembly and Industrial Mechanic and Director II.",
     "Remote listings account for 29% of total listings.",
-    "Median salary range is PHP 62,000–96,000/month.",
-    "Experience levels are mid: 195, senior: 173, entry: 61."
+    "Salary data is available for 16 postings, with a median range of PHP 62,000–96,000/month."
   ],
   "salary_highlights": [
     {
@@ -106,7 +96,35 @@
       "min": 62000,
       "max": 96000,
       "n": 4
+    },
+    {
+      "role": "Accounting Manager",
+      "city": "Manila",
+      "min": 62000,
+      "max": 96000,
+      "n": 3
+    },
+    {
+      "role": "Lead Full Stack Software Engineer",
+      "city": "Manila",
+      "min": 62000,
+      "max": 96000,
+      "n": 3
+    },
+    {
+      "role": "Junior Data Analyst, Global Meeting Services - EMEA",
+      "city": "Manila",
+      "min": 62000,
+      "max": 96000,
+      "n": 3
+    },
+    {
+      "role": "Senior Accounting Specialist",
+      "city": "Manila",
+      "min": 62000,
+      "max": 96000,
+      "n": 3
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with Manila being the top hiring city. In-demand skills include excel, sql, and agile, while remote listings account for 29% of total listings. Median salary range is PHP 62,000–96,000/month."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila emerging as the top hiring city. In-demand skills include Excel, SQL, and Agile, while remote listings account for 29% of total listings. Salary data is available for 16 postings, with a median range of PHP 62,000–96,000/month."
 }
