@@ -1,25 +1,35 @@
 {
-  "generated_at": "2026-07-23",
+  "generated_at": "2026-07-24",
   "fastest_growing_roles": [
     {
-      "role": "Sr. Recruiter (Technology)",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Assembly and Industrial Mechanic",
+      "role": "Internal Audit and Field Risk Coordinator",
       "change_pct": 100,
-      "city": "Manila"
+      "city": "Mandaue"
     },
     {
-      "role": "Director II",
+      "role": "SENIOR FINANCIAL SPECIALIST",
       "change_pct": 100,
-      "city": "Manila"
+      "city": "string"
     },
     {
-      "role": "Senior Software Engineer, Support",
-      "change_pct": 0,
-      "city": "Manila"
+      "role": "Real Estate Administrative and Marketing Support VA",
+      "change_pct": 100,
+      "city": "string"
+    },
+    {
+      "role": "Insurance Assistant",
+      "change_pct": 100,
+      "city": "string"
+    },
+    {
+      "role": "Trailer Driver",
+      "change_pct": 100,
+      "city": "string"
+    },
+    {
+      "role": "Accounts Receivable Representative",
+      "change_pct": 100,
+      "city": "string"
     }
   ],
   "most_in_demand_skills": [
@@ -29,102 +39,53 @@
     "python",
     "aws",
     "ci/cd",
-    "react",
     "power bi",
+    "react",
     "azure",
-    "javascript",
     "tableau",
-    "typescript"
+    "javascript",
+    "sap"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 372,
+      "count": 394,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 134,
+      "count": 139,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 16,
-      "change_pct": 0
-    },
-    {
-      "city": "Makati",
-      "count": 13,
+      "count": 17,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 10,
+      "count": 13,
+      "change_pct": 0
+    },
+    {
+      "city": "Makati",
+      "count": 12,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "New roles emerged in Manila, including Assembly and Industrial Mechanic and Director II.",
-    "Remote listings account for 29% of total listings.",
-    "Salary data is available for 16 postings, with a median range of PHP 62,000–96,000/month."
+    "Remote listings increased to 28%",
+    "Data Analyst role is in high demand",
+    "Salary range is PHP 62,000–96,000/month"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
-      "city": "Manila",
+      "city": "string",
       "min": 62000,
       "max": 96000,
       "n": 6
-    },
-    {
-      "role": "URGENT Permanent WFH | Senior Full Stack Engineer",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 4
-    },
-    {
-      "role": "Full Stack Software Engineer",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 4
-    },
-    {
-      "role": "Senior Software Engineer",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 4
-    },
-    {
-      "role": "Accounting Manager",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 3
-    },
-    {
-      "role": "Lead Full Stack Software Engineer",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 3
-    },
-    {
-      "role": "Junior Data Analyst, Global Meeting Services - EMEA",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 3
-    },
-    {
-      "role": "Senior Accounting Specialist",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 3
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila emerging as the top hiring city. In-demand skills include Excel, SQL, and Agile, while remote listings account for 29% of total listings. Salary data is available for 16 postings, with a median range of PHP 62,000–96,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with a 28% increase in remote listings and high demand for Data Analyst roles. The top hiring cities are Manila, Philippines, Pasig, Cebu City, and Makati. Salary ranges are PHP 62,000–96,000/month."
 }
