@@ -1,35 +1,25 @@
 {
-  "generated_at": "2026-07-24",
+  "generated_at": "2026-07-25",
   "fastest_growing_roles": [
     {
-      "role": "Internal Audit and Field Risk Coordinator",
+      "role": "Full Stack Software Engineer",
       "change_pct": 100,
-      "city": "Mandaue"
+      "city": "Manila"
     },
     {
-      "role": "SENIOR FINANCIAL SPECIALIST",
+      "role": "Source-to-Pay Associate Software Engineer",
       "change_pct": 100,
-      "city": "string"
+      "city": "Manila"
     },
     {
-      "role": "Real Estate Administrative and Marketing Support VA",
+      "role": "Junior Counsel",
       "change_pct": 100,
-      "city": "string"
+      "city": "Manila"
     },
     {
-      "role": "Insurance Assistant",
+      "role": "Chief Officer (C/O) | Bulkcarrier | Worldwide",
       "change_pct": 100,
-      "city": "string"
-    },
-    {
-      "role": "Trailer Driver",
-      "change_pct": 100,
-      "city": "string"
-    },
-    {
-      "role": "Accounts Receivable Representative",
-      "change_pct": 100,
-      "city": "string"
+      "city": "Manila"
     }
   ],
   "most_in_demand_skills": [
@@ -38,23 +28,23 @@
     "agile",
     "python",
     "aws",
-    "ci/cd",
     "power bi",
+    "ci/cd",
     "react",
     "azure",
     "tableau",
-    "javascript",
-    "sap"
+    "sap",
+    "javascript"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 394,
+      "count": 409,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 139,
+      "count": 148,
       "change_pct": 0
     },
     {
@@ -74,18 +64,32 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 28%",
-    "Data Analyst role is in high demand",
-    "Salary range is PHP 62,000–96,000/month"
+    "Remote listings increased by 28%",
+    "Senior Software Engineer and Data Analyst roles are in high demand",
+    "Salary data available for 16 postings with a median range of PHP 62,000–96,000/month"
   ],
   "salary_highlights": [
     {
-      "role": "Data Analyst",
-      "city": "string",
+      "role": "Senior Software Engineer",
+      "city": "Manila",
       "min": 62000,
       "max": 96000,
-      "n": 6
+      "n": 1
+    },
+    {
+      "role": "Data Analyst",
+      "city": "Manila",
+      "min": 62000,
+      "max": 96000,
+      "n": 1
+    },
+    {
+      "role": "Full Stack Software Engineer",
+      "city": "Manila",
+      "min": 62000,
+      "max": 96000,
+      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with a 28% increase in remote listings and high demand for Data Analyst roles. The top hiring cities are Manila, Philippines, Pasig, Cebu City, and Makati. Salary ranges are PHP 62,000–96,000/month."
+  "summary_text": "The Philippine job market is experiencing growth with a 28% increase in remote listings. Senior Software Engineer and Data Analyst roles are in high demand, with a median salary range of PHP 62,000–96,000/month. The top hiring cities are Manila, Philippines, Pasig, Cebu City, and Makati."
 }
