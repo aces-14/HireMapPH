@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-25",
+  "generated_at": "2026-07-26",
   "fastest_growing_roles": [
     {
-      "role": "Full Stack Software Engineer",
+      "role": "Inside Sales Executive B2B (Luzon)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Source-to-Pay Associate Software Engineer",
+      "role": "Aftersales Executive",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Junior Counsel",
+      "role": "Customer Care Team Leader",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Chief Officer (C/O) | Bulkcarrier | Worldwide",
+      "role": "Paid Search Specialist (Google & Bing) (Philippines, Remote)",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -33,18 +33,18 @@
     "react",
     "azure",
     "tableau",
-    "sap",
-    "javascript"
+    "java",
+    "sap"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 409,
+      "count": 422,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 148,
+      "count": 155,
       "change_pct": 0
     },
     {
@@ -64,7 +64,7 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 28%",
+    "Remote listings increased to 28%",
     "Senior Software Engineer and Data Analyst roles are in high demand",
     "Salary data available for 16 postings with a median range of PHP 62,000–96,000/month"
   ],
@@ -82,14 +82,7 @@
       "min": 62000,
       "max": 96000,
       "n": 1
-    },
-    {
-      "role": "Full Stack Software Engineer",
-      "city": "Manila",
-      "min": 62000,
-      "max": 96000,
-      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth with a 28% increase in remote listings. Senior Software Engineer and Data Analyst roles are in high demand, with a median salary range of PHP 62,000–96,000/month. The top hiring cities are Manila, Philippines, Pasig, Cebu City, and Makati."
+  "summary_text": "The Philippine job market is experiencing growth with a total of 722 active listings. Top hiring cities include Manila and the Philippines, while in-demand skills include Excel, SQL, and Agile. Remote listings have increased to 28%."
 }
