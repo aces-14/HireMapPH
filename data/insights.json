@@ -1,34 +1,24 @@
 {
-  "generated_at": "2026-07-27",
+  "generated_at": "2026-07-28",
   "fastest_growing_roles": [
     {
-      "role": "Senior Customer Associate",
+      "role": "Senior Software Engineer, Java",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Financial Sales Associate",
+      "role": "SAP Finance Lead",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Account Developer (Entry level Sales) - Vigan",
-      "change_pct": 100,
-      "city": "Vigan"
-    },
-    {
-      "role": "Customer Success & Operations Manager (Philippines)",
+      "role": "Nursing Attendant I",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Customer Service Representative",
+      "role": "Learning Experience Design Manager",
       "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Aftersales Executive",
-      "change_pct": 0,
       "city": "Manila"
     }
   ],
@@ -40,21 +30,17 @@
     "aws",
     "power bi",
     "ci/cd",
-    "azure",
-    "react",
-    "tableau",
-    "sap",
-    "java"
+    "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 441,
+      "count": 462,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 164,
+      "count": 177,
       "change_pct": 0
     },
     {
@@ -74,67 +60,60 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings account for 29% of total listings",
-    "Median salary range is PHP 64,000–98,000/month",
-    "Experience levels: mid (235), senior (201), entry (82)"
+    "Remote listings increased by 29%",
+    "Mid-level job postings outnumbered senior and entry-level job postings",
+    "New roles emerged in various fields"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 64000,
-      "max": 98000,
+      "min": 69000,
+      "max": 104000,
       "n": 1
     },
     {
       "role": "Senior Software Engineer",
       "city": "Manila",
-      "min": 64000,
-      "max": 98000,
-      "n": 1
-    },
-    {
-      "role": "Data Analyst (SQL)",
-      "city": "Manila",
-      "min": 64000,
-      "max": 98000,
+      "min": 69000,
+      "max": 104000,
       "n": 1
     },
     {
       "role": "Full Stack Software Engineer",
       "city": "Manila",
-      "min": 64000,
-      "max": 98000,
+      "min": 69000,
+      "max": 104000,
       "n": 1
     },
     {
-      "role": "Accounting Manager",
+      "role": "Data Analyst (SQL)",
       "city": "Manila",
-      "min": 64000,
-      "max": 98000,
-      "n": 1
-    },
-    {
-      "role": "URGENT Permanent WFH | Senior Full Stack Engineer",
-      "city": "Manila",
-      "min": 64000,
-      "max": 98000,
+      "min": 69000,
+      "max": 104000,
       "n": 1
     },
     {
       "role": "Customer Service Representative",
       "city": "Manila",
-      "min": 64000,
-      "max": 98000,
+      "min": 69000,
+      "max": 104000,
+      "n": 1
+    },
+    {
+      "role": "Accounting Manager",
+      "city": "Manila",
+      "min": 69000,
+      "max": 104000,
       "n": 1
     },
     {
       "role": "Junior Software Engineer",
       "city": "Manila",
-      "min": 64000,
-      "max": 98000,
+      "min": 69000,
+      "max": 104000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with a strong demand for skilled professionals in data analysis, software engineering, and customer service. Remote listings account for 29% of total listings, and the median salary range is PHP 64,000–98,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with a 29% increase in remote listings and a surge in demand for mid-level job postings. New roles emerged in various fields, including software engineering and finance. The median salary range for available postings is PHP 69,500–104,000/month."
 }
