@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-29",
+  "generated_at": "2026-07-30",
   "fastest_growing_roles": [
     {
       "role": "Junior Data Analyst",
-      "change_pct": 100,
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Account Manager Philippines, RCB P&B",
-      "change_pct": 100,
+      "role": "Store Staff ( Future Store Manager Candidate)",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Interpreter II",
-      "change_pct": 100,
+      "role": "Technicians",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Healthcare Administrative Assistant – Work From Home (Day Shift)",
-      "change_pct": 100,
+      "role": "Presales Manager",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Custom Software Engineer - Microsoft Power Apps (URGENT HIRING!)",
-      "change_pct": 100,
+      "role": "Software Developer - Junior/Mid/Senior - PHILIPPINES ONLY",
+      "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Marketing Leader",
+      "role": "Publications Associate, Manila, Philippines",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -44,22 +44,22 @@
     "tableau",
     "react",
     "java",
-    "sap"
+    "javascript"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 479,
+      "count": 498,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 188,
+      "count": 200,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 18,
+      "count": 19,
       "change_pct": 0
     },
     {
@@ -74,9 +74,9 @@
     }
   ],
   "notable_shifts": [
-    "New roles emerged in Manila, including Junior Data Analyst and Account Manager Philippines, RCB P&B.",
-    "Senior Software Engineer, Java demand decreased by 50%.",
-    "Remote listings account for 29% of total listings."
+    "Remote listings increased to 29%",
+    "New roles emerged in Manila, including Store Staff and Presales Manager",
+    "Salary data available for 22 postings, with a median range of PHP 78,000–110,000/month"
   ],
   "salary_highlights": [
     {
@@ -94,14 +94,14 @@
       "n": 1
     },
     {
-      "role": "Data Analyst (SQL)",
+      "role": "Full Stack Software Engineer",
       "city": "Manila",
       "min": 78000,
       "max": 110000,
       "n": 1
     },
     {
-      "role": "Full Stack Software Engineer",
+      "role": "Junior Data Analyst",
       "city": "Manila",
       "min": 78000,
       "max": 110000,
@@ -115,26 +115,19 @@
       "n": 1
     },
     {
-      "role": "Financial Sales Associate",
-      "city": "Manila",
-      "min": 78000,
-      "max": 110000,
-      "n": 1
-    },
-    {
-      "role": "Junior Software Engineer",
-      "city": "Manila",
-      "min": 78000,
-      "max": 110000,
-      "n": 1
-    },
-    {
       "role": "Accounting Manager",
+      "city": "Manila",
+      "min": 78000,
+      "max": 110000,
+      "n": 1
+    },
+    {
+      "role": "URGENT Permanent WFH | Senior Full Stack Engineer",
       "city": "Manila",
       "min": 78000,
       "max": 110000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila. Remote listings account for 29% of total listings, and salary data suggests a median range of PHP 78,000–110,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with a total of 874 active listings. The top hiring cities are Manila, Philippines, Pasig, Makati, and Cebu City. The most in-demand skills are excel, sql, and agile, while the most common roles are Data Analyst and Senior Software Engineer."
 }
