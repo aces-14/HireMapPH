@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-07-31",
+  "generated_at": "2026-08-01",
   "fastest_growing_roles": [
     {
-      "role": "Assistant Brand and Multimedia Manager",
+      "role": "CLERK II",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "STENOGRAPHIC REPORTER IV",
+      "role": "Product Experience (UI/UX)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "AI Content & Growth Specialist (028-1176)",
+      "role": "Director Operations",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Store Associate ( Urgent Hiring )",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Admin Assistant (Reliever for 3 months only) - Circuit, Makati",
-      "change_pct": 100,
-      "city": "Makati"
-    },
-    {
-      "role": "Marketing Leader",
+      "role": "Account Manager (Remote)",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -38,8 +28,8 @@
     "agile",
     "python",
     "ci/cd",
-    "aws",
     "power bi",
+    "aws",
     "azure",
     "tableau",
     "react",
@@ -49,12 +39,12 @@
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 519,
+      "count": 539,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 207,
+      "count": 219,
       "change_pct": 0
     },
     {
@@ -74,9 +64,9 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 29%",
-    "Data Analyst and Junior Data Analyst roles are in high demand",
-    "Salary data available for 22 postings with a median range of PHP 78,000–110,000/month"
+    "Remote listings increased by 29%",
+    "Mid-level positions are in high demand",
+    "Salary range is PHP 78,000–110,000/month"
   ],
   "salary_highlights": [
     {
@@ -99,42 +89,7 @@
       "min": 78000,
       "max": 110000,
       "n": 1
-    },
-    {
-      "role": "Data Analyst (SQL)",
-      "city": "Manila",
-      "min": 78000,
-      "max": 110000,
-      "n": 1
-    },
-    {
-      "role": "Customer Service Representative",
-      "city": "Manila",
-      "min": 78000,
-      "max": 110000,
-      "n": 1
-    },
-    {
-      "role": "Full Stack Software Engineer",
-      "city": "Manila",
-      "min": 78000,
-      "max": 110000,
-      "n": 1
-    },
-    {
-      "role": "Accounting Manager",
-      "city": "Manila",
-      "min": 78000,
-      "max": 110000,
-      "n": 1
-    },
-    {
-      "role": "Marketing Leader",
-      "city": "Manila",
-      "min": 78000,
-      "max": 110000,
-      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing a surge in demand for data analysts and software engineers, with remote listings increasing to 29%. The median salary range for these roles is PHP 78,000–110,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with a 29% increase in remote listings and high demand for mid-level positions. The top hiring cities are Manila, Philippines, Pasig, Makati, and Cebu City. Salary ranges are PHP 78,000–110,000/month."
 }
