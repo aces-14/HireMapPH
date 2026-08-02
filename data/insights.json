@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-01",
+  "generated_at": "2026-08-02",
   "fastest_growing_roles": [
     {
-      "role": "CLERK II",
+      "role": "Senior Executive, Finance",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Product Experience (UI/UX)",
+      "role": "RECORDS OFFICER I",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Director Operations",
+      "role": "Service Desk Associate",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Account Manager (Remote)",
+      "role": "Head of AI - FinTech / Digital Payments",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -31,30 +31,30 @@
     "power bi",
     "aws",
     "azure",
-    "tableau",
     "react",
-    "java",
-    "javascript"
+    "tableau",
+    "javascript",
+    "java"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 539,
+      "count": 554,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 219,
-      "change_pct": 0
-    },
-    {
-      "city": "Pasig",
-      "count": 19,
+      "count": 224,
       "change_pct": 0
     },
     {
       "city": "Makati",
       "count": 19,
+      "change_pct": 0
+    },
+    {
+      "city": "Pasig",
+      "count": 17,
       "change_pct": 0
     },
     {
@@ -64,32 +64,67 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 29%",
-    "Mid-level positions are in high demand",
-    "Salary range is PHP 78,000–110,000/month"
+    "Remote listings account for 30% of total listings",
+    "Median salary range is PHP 77,500–110,000/month",
+    "Data Analyst and Junior Data Analyst roles are in high demand"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 78000,
+      "min": 77500,
       "max": 110000,
       "n": 1
     },
     {
       "role": "Junior Data Analyst",
       "city": "Manila",
-      "min": 78000,
+      "min": 77500,
       "max": 110000,
       "n": 1
     },
     {
       "role": "Senior Software Engineer",
       "city": "Manila",
-      "min": 78000,
+      "min": 77500,
+      "max": 110000,
+      "n": 1
+    },
+    {
+      "role": "Full Stack Software Engineer",
+      "city": "Manila",
+      "min": 77500,
+      "max": 110000,
+      "n": 1
+    },
+    {
+      "role": "Customer Service Representative",
+      "city": "Manila",
+      "min": 77500,
+      "max": 110000,
+      "n": 1
+    },
+    {
+      "role": "Data Analyst (SQL)",
+      "city": "Manila",
+      "min": 77500,
+      "max": 110000,
+      "n": 1
+    },
+    {
+      "role": "Marketing Leader",
+      "city": "Manila",
+      "min": 77500,
+      "max": 110000,
+      "n": 1
+    },
+    {
+      "role": "Accounting Manager",
+      "city": "Manila",
+      "min": 77500,
       "max": 110000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with a 29% increase in remote listings and high demand for mid-level positions. The top hiring cities are Manila, Philippines, Pasig, Makati, and Cebu City. Salary ranges are PHP 78,000–110,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with Manila being the top hiring city. Data Analyst and Junior Data Analyst roles are in high demand, and remote listings account for 30% of total listings."
 }
