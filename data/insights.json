@@ -1,25 +1,35 @@
 {
-  "generated_at": "2026-08-02",
+  "generated_at": "2026-08-03",
   "fastest_growing_roles": [
     {
-      "role": "Senior Executive, Finance",
+      "role": "Player Engagement Agent (NON-VOICE and GAMING)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "RECORDS OFFICER I",
+      "role": "Outlet Manager - In Room Dining",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Service Desk Associate",
+      "role": "Collections Agents - Pooling",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Head of AI - FinTech / Digital Payments",
+      "role": "RISK MANAGEMENT AND INSURANCE OFFICER",
       "change_pct": 100,
       "city": "Manila"
+    },
+    {
+      "role": "Pre-Opening Guest Services Manager - Resort Group, Luzon, Philippines",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Admin Assistant - Cebu Site",
+      "change_pct": 100,
+      "city": "Cebu City"
     }
   ],
   "most_in_demand_skills": [
@@ -31,20 +41,20 @@
     "power bi",
     "aws",
     "azure",
-    "react",
     "tableau",
-    "javascript",
+    "react",
+    "sap",
     "java"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 554,
+      "count": 555,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 224,
+      "count": 227,
       "change_pct": 0
     },
     {
@@ -59,72 +69,72 @@
     },
     {
       "city": "Cebu City",
-      "count": 15,
+      "count": 16,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
     "Remote listings account for 30% of total listings",
-    "Median salary range is PHP 77,500–110,000/month",
-    "Data Analyst and Junior Data Analyst roles are in high demand"
+    "Median salary range is PHP 80,000–110,000/month",
+    "Experience levels: mid (287), senior (261), entry (115)"
   ],
   "salary_highlights": [
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 77500,
+      "min": 80000,
       "max": 110000,
       "n": 1
     },
     {
       "role": "Junior Data Analyst",
       "city": "Manila",
-      "min": 77500,
+      "min": 80000,
       "max": 110000,
       "n": 1
     },
     {
       "role": "Senior Software Engineer",
       "city": "Manila",
-      "min": 77500,
-      "max": 110000,
-      "n": 1
-    },
-    {
-      "role": "Full Stack Software Engineer",
-      "city": "Manila",
-      "min": 77500,
+      "min": 80000,
       "max": 110000,
       "n": 1
     },
     {
       "role": "Customer Service Representative",
       "city": "Manila",
-      "min": 77500,
+      "min": 80000,
       "max": 110000,
       "n": 1
     },
     {
       "role": "Data Analyst (SQL)",
       "city": "Manila",
-      "min": 77500,
+      "min": 80000,
+      "max": 110000,
+      "n": 1
+    },
+    {
+      "role": "Software Engineer 2",
+      "city": "Manila",
+      "min": 80000,
       "max": 110000,
       "n": 1
     },
     {
       "role": "Marketing Leader",
       "city": "Manila",
-      "min": 77500,
+      "min": 80000,
       "max": 110000,
       "n": 1
     },
     {
-      "role": "Accounting Manager",
+      "role": "URGENT Permanent WFH | Senior Full Stack Engineer",
       "city": "Manila",
-      "min": 77500,
+      "min": 80000,
       "max": 110000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with Manila being the top hiring city. Data Analyst and Junior Data Analyst roles are in high demand, and remote listings account for 30% of total listings."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila emerging as the top hiring city. In-demand skills include Excel, SQL, and Agile, while remote listings account for 30% of total listings. Median salaries range from PHP 80,000 to PHP 110,000 per month."
 }
