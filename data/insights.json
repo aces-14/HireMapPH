@@ -49,7 +49,7 @@
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 558,
+      "count": 559,
       "change_pct": 0
     },
     {
@@ -58,12 +58,12 @@
       "change_pct": 0
     },
     {
-      "city": "Cebu City",
+      "city": "Makati",
       "count": 18,
       "change_pct": 0
     },
     {
-      "city": "Makati",
+      "city": "Cebu City",
       "count": 18,
       "change_pct": 0
     },
@@ -74,9 +74,9 @@
     }
   ],
   "notable_shifts": [
-    "Remote listings account for 29% of total listings.",
-    "Median salary range is PHP 80,000–110,000/month.",
-    "Experience levels are mid: 284, senior: 260, entry: 124."
+    "Job postings in Manila continue to dominate the market.",
+    "New roles in senior management and operations are emerging.",
+    "Demand for data analysis and software engineering skills remains high."
   ],
   "salary_highlights": [
     {
@@ -84,36 +84,36 @@
       "city": "Manila",
       "min": 80000,
       "max": 110000,
-      "n": 7
-    },
-    {
-      "role": "Data Analyst",
-      "city": "Manila",
-      "min": 80000,
-      "max": 110000,
-      "n": 6
-    },
-    {
-      "role": "Senior Software Engineer",
-      "city": "Manila",
-      "min": 80000,
-      "max": 110000,
-      "n": 6
-    },
-    {
-      "role": "Junior Data Analyst",
-      "city": "Manila",
-      "min": 80000,
-      "max": 110000,
-      "n": 6
+      "n": 1
     },
     {
       "role": "Software Engineer 2",
       "city": "Manila",
       "min": 80000,
       "max": 110000,
-      "n": 6
+      "n": 1
+    },
+    {
+      "role": "Junior Data Analyst",
+      "city": "Manila",
+      "min": 80000,
+      "max": 110000,
+      "n": 1
+    },
+    {
+      "role": "Senior Software Engineer",
+      "city": "Manila",
+      "min": 80000,
+      "max": 110000,
+      "n": 1
+    },
+    {
+      "role": "Data Analyst",
+      "city": "Manila",
+      "min": 80000,
+      "max": 110000,
+      "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila emerging as the top hiring city. In-demand skills include Excel, SQL, and Agile, while remote listings account for nearly a third of total listings."
+  "summary_text": "The Philippine job market remains competitive, with Manila driving demand for various roles. Emerging trends include senior management and operations positions, while data analysis and software engineering skills continue to be in high demand."
 }
