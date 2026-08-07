@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-08-05",
+  "generated_at": "2026-08-07",
   "fastest_growing_roles": [
     {
-      "role": "Sr Accounting Associate (Travel)",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Solution Architect (FinTech)",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Senior Treasury Specialist",
+      "role": "Senior Executive Assistant",
       "change_pct": 100,
       "city": "Manila"
     },
@@ -22,12 +12,22 @@
       "city": "Manila"
     },
     {
-      "role": "Project Field Supervisor",
+      "role": "Talent Management and Organizational Development Manager",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "SUPPORT ANALYST",
+      "role": "Operations Staff",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Interactive Designer",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Project Field Supervisor",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -37,83 +37,83 @@
     "sql",
     "agile",
     "python",
-    "ci/cd",
     "power bi",
     "aws",
+    "ci/cd",
     "azure",
     "tableau",
+    "php",
     "react",
-    "sap",
-    "php"
+    "sap"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 568,
+      "count": 558,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 226,
-      "change_pct": 0
-    },
-    {
-      "city": "Makati",
-      "count": 19,
-      "change_pct": 0
-    },
-    {
-      "city": "Pasig",
-      "count": 17,
+      "count": 224,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 17,
+      "count": 18,
+      "change_pct": 0
+    },
+    {
+      "city": "Makati",
+      "count": 18,
+      "change_pct": 0
+    },
+    {
+      "city": "Pasig",
+      "count": 15,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings account for 30% of total listings.",
-    "Mid-level experience is the most common experience level.",
-    "Salary data is available for 26 postings, with a median range of PHP 80,000–115,000/month."
+    "Remote listings account for 29% of total listings.",
+    "Median salary range is PHP 80,000–110,000/month.",
+    "Experience levels are mid: 284, senior: 260, entry: 124."
   ],
   "salary_highlights": [
+    {
+      "role": "Accounting Manager",
+      "city": "Manila",
+      "min": 80000,
+      "max": 110000,
+      "n": 7
+    },
     {
       "role": "Data Analyst",
       "city": "Manila",
       "min": 80000,
-      "max": 115000,
-      "n": 1
-    },
-    {
-      "role": "Junior Data Analyst",
-      "city": "Manila",
-      "min": 80000,
-      "max": 115000,
-      "n": 1
+      "max": 110000,
+      "n": 6
     },
     {
       "role": "Senior Software Engineer",
       "city": "Manila",
       "min": 80000,
-      "max": 115000,
-      "n": 1
+      "max": 110000,
+      "n": 6
+    },
+    {
+      "role": "Junior Data Analyst",
+      "city": "Manila",
+      "min": 80000,
+      "max": 110000,
+      "n": 6
     },
     {
       "role": "Software Engineer 2",
       "city": "Manila",
       "min": 80000,
-      "max": 115000,
-      "n": 1
-    },
-    {
-      "role": "Accounting Manager",
-      "city": "Manila",
-      "min": 80000,
-      "max": 115000,
-      "n": 1
+      "max": 110000,
+      "n": 6
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila emerging as the top hiring city. In-demand skills include Excel, SQL, and Agile, while remote listings account for 30% of total listings."
+  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila emerging as the top hiring city. In-demand skills include Excel, SQL, and Agile, while remote listings account for nearly a third of total listings."
 }
