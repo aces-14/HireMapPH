@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-08-09",
+  "generated_at": "2026-08-10",
   "fastest_growing_roles": [
     {
-      "role": "Sales Key Account Manager",
+      "role": "Sr. Pricing & Data Analyst (Remote)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Customer Service Consultant (Non-Voice / Voice) - Mandaluyong Site",
-      "change_pct": 100,
-      "city": "Mandaluyong"
-    },
-    {
-      "role": "Talent Management and Organizational Development Manager",
+      "role": "Digital Marketing & Content Coordinator",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Customer Service Representative (Tech Support ) Onsite",
+      "role": "ERP Manager",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Customer Service Professional",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Operations Technical Support Rep II",
+      "role": "Front Desk & Facilities Coordinator",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -40,80 +30,66 @@
     "power bi",
     "aws",
     "ci/cd",
-    "azure",
     "php",
+    "azure",
     "tableau",
-    "react",
-    "sap"
+    "sap",
+    "java"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 553,
+      "count": 554,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 217,
-      "change_pct": 0
-    },
-    {
-      "city": "Makati",
-      "count": 17,
+      "count": 219,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 17,
+      "count": 18,
       "change_pct": 0
     },
     {
       "city": "Pasig",
-      "count": 13,
+      "count": 16,
+      "change_pct": 0
+    },
+    {
+      "city": "Makati",
+      "count": 16,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 29%",
-    "Accounting Manager is the most in-demand role",
-    "Median salary range is PHP 80,000–110,000/month"
+    "Remote listings increased by 29%",
+    "Mid-level positions are in high demand",
+    "Salary range is PHP 77,500–104,000/month"
   ],
   "salary_highlights": [
     {
       "role": "Accounting Manager",
       "city": "Manila",
-      "min": 80000,
-      "max": 110000,
+      "min": 77000,
+      "max": 104000,
       "n": 8
-    },
-    {
-      "role": "Software Engineer 2",
-      "city": "Manila",
-      "min": 80000,
-      "max": 110000,
-      "n": 6
-    },
-    {
-      "role": "Senior Software Engineer",
-      "city": "Manila",
-      "min": 80000,
-      "max": 110000,
-      "n": 6
     },
     {
       "role": "Junior Data Analyst",
       "city": "Manila",
-      "min": 80000,
-      "max": 110000,
-      "n": 6
+      "min": 77000,
+      "max": 104000,
+      "n": 7
     },
     {
       "role": "Data Analyst",
       "city": "Manila",
-      "min": 80000,
-      "max": 110000,
+      "min": 77000,
+      "max": 104000,
       "n": 6
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth, with Manila being the top hiring city. In-demand skills include Excel, SQL, and Agile, while Accounting Manager is the most in-demand role. Median salaries range from PHP 80,000 to PHP 110,000 per month."
+  "summary_text": "The Philippine job market is experiencing growth, with a 29% increase in remote listings and high demand for mid-level positions. The top hiring cities are Manila, Philippines, and Cebu City. Salary ranges are PHP 77,500–104,000/month."
 }
