@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-08-11",
+  "generated_at": "2026-08-12",
   "fastest_growing_roles": [
     {
-      "role": "Sr. Pricing & Data Analyst (Remote)",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Accounts Payable & Reconciliation",
+      "role": "Actuarial Manager - Pricing",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Telecoms Engineer",
+      "role": "Lead Generation Specialist",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "URGENT: Jr. Salesman (Cabuyao Laguna)",
+      "role": "Digital Innovation Specialist/Officer",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Executive Assistant (ST Telemedia Global Data Centres Philippines)",
+      "role": "HR & GA Manager",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Virtual Assistants - Events Technology",
+      "role": "BPO Planning & Scheduling Senior Associate",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Service Planner (II) - Philippines",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -49,34 +49,34 @@
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 571,
+      "count": 575,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 219,
+      "count": 221,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 18,
-      "change_pct": 0
-    },
-    {
-      "city": "Makati",
-      "count": 16,
+      "count": 17,
       "change_pct": 0
     },
     {
       "city": "Pasig",
       "count": 16,
       "change_pct": 0
+    },
+    {
+      "city": "Makati",
+      "count": 16,
+      "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 30%",
-    "Mid-level experience is the most common level at 271 listings",
-    "Salary data is available for 28 postings with a median range of PHP 77,500–104,000/month"
+    "Remote listings increased to 30%",
+    "Mid-level experience is in high demand with 275 listings",
+    "Salary data available for 30 postings with a median range of PHP 72,500–96,000/month"
   ],
   "salary_highlights": [
     {
@@ -94,7 +94,7 @@
       "n": 0
     },
     {
-      "role": "Software Engineer 2",
+      "role": "Senior Software Engineer",
       "city": "Manila",
       "min": 0,
       "max": 0,
@@ -106,14 +106,7 @@
       "min": 0,
       "max": 0,
       "n": 0
-    },
-    {
-      "role": "Senior Software Engineer",
-      "city": "Manila",
-      "min": 0,
-      "max": 0,
-      "n": 0
     }
   ],
-  "summary_text": "The Philippine job market is experiencing a moderate increase in demand, with Manila being the top hiring city. Remote listings have increased by 30%, and mid-level experience is the most common level at 271 listings."
+  "summary_text": "The Philippine job market is experiencing growth with new roles emerging and existing ones in high demand. Remote listings have increased, and mid-level experience is in high demand. Salary data is available for 30 postings with a median range of PHP 72,500–96,000/month."
 }
