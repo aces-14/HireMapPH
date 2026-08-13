@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-08-12",
+  "generated_at": "2026-08-13",
   "fastest_growing_roles": [
     {
-      "role": "Actuarial Manager - Pricing",
+      "role": "Operations Director",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Lead Generation Specialist",
+      "role": "Legal Officer I",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Digital Innovation Specialist/Officer",
+      "role": "Senior Manager Sourcing",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "HR & GA Manager",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "BPO Planning & Scheduling Senior Associate",
-      "change_pct": 100,
-      "city": "Manila"
-    },
-    {
-      "role": "Service Planner (II) - Philippines",
+      "role": "Vendor and IT Asset Consultant (Contract)",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -41,20 +31,20 @@
     "aws",
     "ci/cd",
     "php",
-    "azure",
-    "tableau",
     "java",
+    "tableau",
+    "azure",
     "javascript"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 575,
+      "count": 573,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 221,
+      "count": 218,
       "change_pct": 0
     },
     {
@@ -63,50 +53,43 @@
       "change_pct": 0
     },
     {
-      "city": "Pasig",
+      "city": "Makati",
       "count": 16,
       "change_pct": 0
     },
     {
-      "city": "Makati",
+      "city": "Pasig",
       "count": 16,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings increased to 30%",
-    "Mid-level experience is in high demand with 275 listings",
-    "Salary data available for 30 postings with a median range of PHP 72,500–96,000/month"
+    "Remote listings increased by 31%",
+    "Senior roles are in high demand",
+    "New roles emerged in Operations and Legal"
   ],
   "salary_highlights": [
     {
-      "role": "Junior Data Analyst",
-      "city": "Manila",
-      "min": 0,
-      "max": 0,
-      "n": 0
-    },
-    {
       "role": "Accounting Manager",
       "city": "Manila",
-      "min": 0,
-      "max": 0,
-      "n": 0
+      "min": 67000,
+      "max": 89500,
+      "n": 8
+    },
+    {
+      "role": "Junior Data Analyst",
+      "city": "Manila",
+      "min": 67000,
+      "max": 89500,
+      "n": 8
     },
     {
       "role": "Senior Software Engineer",
       "city": "Manila",
-      "min": 0,
-      "max": 0,
-      "n": 0
-    },
-    {
-      "role": "Data Analyst",
-      "city": "Manila",
-      "min": 0,
-      "max": 0,
-      "n": 0
+      "min": 67000,
+      "max": 89500,
+      "n": 7
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth with new roles emerging and existing ones in high demand. Remote listings have increased, and mid-level experience is in high demand. Salary data is available for 30 postings with a median range of PHP 72,500–96,000/month."
+  "summary_text": "The Philippine job market is experiencing growth, with a 31% increase in remote listings and high demand for senior roles. New roles emerged in Operations and Legal, while top cities for hiring remain Manila and the Philippines."
 }
