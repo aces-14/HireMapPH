@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-08-13",
+  "generated_at": "2026-08-14",
   "fastest_growing_roles": [
     {
-      "role": "Operations Director",
+      "role": "Full Stack Cloud Software Developer",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Legal Officer I",
+      "role": "Software Engineer (Avaloq Developer) - For Pooling",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Senior Manager Sourcing",
+      "role": "Front-End Software Engineer (Fixed Term)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Vendor and IT Asset Consultant (Contract)",
+      "role": "Senior Software Engineer (AI Infrastructure)",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Senior Software Engineer - Digital Workplace",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "IT Software Developer",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -25,11 +35,11 @@
   "most_in_demand_skills": [
     "excel",
     "sql",
-    "agile",
     "python",
+    "agile",
     "power bi",
-    "aws",
     "ci/cd",
+    "aws",
     "php",
     "java",
     "tableau",
@@ -39,17 +49,12 @@
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 573,
+      "count": 570,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 218,
-      "change_pct": 0
-    },
-    {
-      "city": "Cebu City",
-      "count": 17,
+      "count": 220,
       "change_pct": 0
     },
     {
@@ -58,38 +63,43 @@
       "change_pct": 0
     },
     {
-      "city": "Pasig",
+      "city": "Cebu City",
       "count": 16,
+      "change_pct": 0
+    },
+    {
+      "city": "Pasig",
+      "count": 15,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings increased by 31%",
-    "Senior roles are in high demand",
-    "New roles emerged in Operations and Legal"
+    "Remote listings account for 31% of total listings.",
+    "Salary data is available for 30 postings, with a median range of PHP 62,000–81,000/month.",
+    "Experience levels show a mix of senior (278), mid (264), and entry (139) level positions."
   ],
   "salary_highlights": [
     {
       "role": "Accounting Manager",
       "city": "Manila",
-      "min": 67000,
-      "max": 89500,
+      "min": 62000,
+      "max": 81000,
       "n": 8
     },
     {
       "role": "Junior Data Analyst",
       "city": "Manila",
-      "min": 67000,
-      "max": 89500,
+      "min": 62000,
+      "max": 81000,
       "n": 8
     },
     {
       "role": "Senior Software Engineer",
       "city": "Manila",
-      "min": 67000,
-      "max": 89500,
+      "min": 62000,
+      "max": 81000,
       "n": 7
     }
   ],
-  "summary_text": "The Philippine job market is experiencing growth, with a 31% increase in remote listings and high demand for senior roles. New roles emerged in Operations and Legal, while top cities for hiring remain Manila and the Philippines."
+  "summary_text": "The Philippine job market is experiencing growth, with a total of 978 active listings. Top hiring cities include Manila and the Philippines, while in-demand skills include Excel, SQL, and Python. Experience levels show a mix of senior, mid, and entry-level positions."
 }
