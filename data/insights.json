@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-08-15",
+  "generated_at": "2026-08-16",
   "fastest_growing_roles": [
     {
       "role": "Account Developer (Entry level Sales)",
-      "change_pct": 100,
+      "change_pct": 0,
       "city": "Pagadian City"
     },
     {
-      "role": "Scrum Leader",
+      "role": "Agency Development Manager",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "On-Site Operations Manager — BPO & Tech Support",
+      "role": "B2B Outbound Sales Representative (US Market, remote from APAC)",
       "change_pct": 100,
       "city": "Manila"
     },
     {
-      "role": "Call Center Supervisor",
+      "role": "Sales Manager (Manila) - SCG International Philippines",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Product Owner",
+      "change_pct": 100,
+      "city": "Manila"
+    },
+    {
+      "role": "Operations Manager",
       "change_pct": 100,
       "city": "Manila"
     }
@@ -25,48 +35,48 @@
   "most_in_demand_skills": [
     "excel",
     "sql",
-    "agile",
     "python",
+    "agile",
     "power bi",
+    "php",
     "ci/cd",
     "aws",
-    "php",
     "java",
-    "tableau",
     "azure",
+    "tableau",
     "javascript"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 562,
+      "count": 567,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 224,
+      "count": 229,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 18,
-      "change_pct": 0
-    },
-    {
-      "city": "Makati",
-      "count": 15,
+      "count": 19,
       "change_pct": 0
     },
     {
       "city": "Pasig",
       "count": 15,
       "change_pct": 0
+    },
+    {
+      "city": "Makati",
+      "count": 14,
+      "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Remote listings account for 31% of total listings",
-    "Senior roles dominate with 287 listings",
-    "Salary data available for 32 postings with a median range of PHP 60,000–77,000/month"
+    "New roles emerged in Manila, including Agency Development Manager and Sales Manager (Manila) - SCG International Philippines.",
+    "Remote listings account for 31% of total listings.",
+    "Salary data is available for 32 postings, with a median range of PHP 60,000–77,000/month."
   ],
   "salary_highlights": [
     {
@@ -84,7 +94,7 @@
       "n": 1
     },
     {
-      "role": "Software Engineer 2",
+      "role": "Data Analyst",
       "city": "Manila",
       "min": 60000,
       "max": 77000,
@@ -98,19 +108,19 @@
       "n": 1
     },
     {
-      "role": "Senior Software Engineer",
+      "role": "Software Engineer 2",
       "city": "Manila",
       "min": 60000,
       "max": 77000,
       "n": 1
     },
     {
-      "role": "Data Analyst",
+      "role": "Senior Software Engineer",
       "city": "Manila",
       "min": 60000,
       "max": 77000,
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market is experiencing moderate growth with a total of 978 active listings. Manila remains the top hiring city, followed closely by the Philippines. Remote listings account for 31% of total listings, and senior roles dominate with 287 listings."
+  "summary_text": "The Philippine job market is experiencing growth, with new roles emerging in Manila. Remote listings account for 31% of total listings, and salary data is available for 32 postings, with a median range of PHP 60,000–77,000/month."
 }
