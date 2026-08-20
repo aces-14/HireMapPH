@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19",
+  "generated_at": "2026-08-20",
   "fastest_growing_roles": [
     {
       "role": "Accounting Manager",
@@ -12,12 +12,12 @@
       "city": "Manila"
     },
     {
-      "role": "Software Engineer 2",
+      "role": "Senior Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Senior Data Analyst",
+      "role": "Software Engineer 2",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -36,28 +36,28 @@
     "excel",
     "sql",
     "python",
-    "agile",
     "power bi",
+    "agile",
     "java",
     "ci/cd",
     "aws",
-    "php",
-    "tableau"
+    "tableau",
+    "azure"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 599,
+      "count": 610,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 241,
+      "count": 246,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 19,
+      "count": 18,
       "change_pct": 0
     },
     {
@@ -72,11 +72,19 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 599 active listings.",
+    "Manila leads hiring with 610 active listings.",
     "excel is the most in-demand skill across all postings.",
     "32% of listings offer remote or hybrid work.",
-    "Median advertised salary: PHP 58,000–71,250/month."
+    "Median advertised salary: PHP 60,000–72,500/month."
   ],
-  "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 1032 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 32% of roles offer remote flexibility."
+  "salary_highlights": [
+    {
+      "role": "Senior Data Analyst",
+      "city": "Multiple",
+      "min": 56000,
+      "max": 77000,
+      "n": 1
+    }
+  ],
+  "summary_text": "The Philippine job market currently has 1046 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 32% of roles offer remote flexibility."
 }
