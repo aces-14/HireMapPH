@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-21",
+  "generated_at": "2026-08-22",
   "fastest_growing_roles": [
     {
-      "role": "Accounting Manager",
+      "role": "Junior Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Junior Data Analyst",
+      "role": "Accounting Manager",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -17,7 +17,7 @@
       "city": "Manila"
     },
     {
-      "role": "Data Analyst",
+      "role": "Data Analyst - ETL & Python (CAN START ASAP)",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -27,7 +27,7 @@
       "city": "Manila"
     },
     {
-      "role": "Data Analyst - ETL & Python (CAN START ASAP)",
+      "role": "Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -40,8 +40,8 @@
     "agile",
     "java",
     "ci/cd",
-    "azure",
     "tableau",
+    "azure",
     "aws"
   ],
   "top_hiring_cities": [
@@ -52,7 +52,7 @@
     },
     {
       "city": "Philippines",
-      "count": 247,
+      "count": 244,
       "change_pct": 0
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "city": "Pasig",
-      "count": 13,
+      "count": 12,
       "change_pct": 0
     }
   ],
@@ -86,5 +86,5 @@
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market currently has 1052 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 33% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 1045 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 33% of roles offer remote flexibility."
 }
