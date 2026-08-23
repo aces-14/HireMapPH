@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22",
+  "generated_at": "2026-08-23",
   "fastest_growing_roles": [
     {
       "role": "Junior Data Analyst",
@@ -39,30 +39,30 @@
     "power bi",
     "agile",
     "java",
-    "ci/cd",
     "tableau",
     "azure",
+    "ci/cd",
     "aws"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 617,
+      "count": 621,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 244,
+      "count": 252,
       "change_pct": 0
     },
     {
       "city": "Makati",
-      "count": 17,
+      "count": 16,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 16,
+      "count": 15,
       "change_pct": 0
     },
     {
@@ -72,9 +72,9 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 617 active listings.",
+    "Manila leads hiring with 621 active listings.",
     "excel is the most in-demand skill across all postings.",
-    "33% of listings offer remote or hybrid work.",
+    "34% of listings offer remote or hybrid work.",
     "Median advertised salary: PHP 60,000–72,500/month."
   ],
   "salary_highlights": [
@@ -86,5 +86,5 @@
       "n": 1
     }
   ],
-  "summary_text": "The Philippine job market currently has 1045 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 33% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 1056 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 34% of roles offer remote flexibility."
 }
