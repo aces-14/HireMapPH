@@ -12,22 +12,22 @@
       "city": "Manila"
     },
     {
-      "role": "IT Data Analyst Sr (Service Desk Reporting and PowerBI)",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Accounting Manager",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Data Analyst",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
       "role": "Operations Data Analyst",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Mid-Level Software Engineer (Go and Kafka)",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Marketing Officer",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "IT Data Analyst Sr (Service Desk Reporting and PowerBI)",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -36,23 +36,23 @@
     "excel",
     "sql",
     "python",
-    "agile",
     "power bi",
+    "agile",
     "java",
-    "ci/cd",
     "sap",
+    "ci/cd",
     "aws",
-    "javascript"
+    "php"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 428,
+      "count": 451,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 134,
+      "count": 144,
       "change_pct": 0
     },
     {
@@ -72,11 +72,11 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 428 active listings.",
+    "Manila leads hiring with 451 active listings.",
     "excel is the most in-demand skill across all postings.",
     "32% of listings offer remote or hybrid work.",
     "Median advertised salary: PHP 62,500–75,000/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 745 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 32% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 783 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 32% of roles offer remote flexibility."
 }
