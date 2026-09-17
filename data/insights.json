@@ -17,7 +17,7 @@
       "city": "Manila"
     },
     {
-      "role": "Mid-Level Software Engineer (Go and Kafka)",
+      "role": "Accounting Assistant",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -27,7 +27,7 @@
       "city": "Manila"
     },
     {
-      "role": "Accounting Manager",
+      "role": "Mid-Level Software Engineer (Go and Kafka)",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -42,22 +42,22 @@
     "sap",
     "javascript",
     "ci/cd",
-    "aws"
+    "php"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 421,
+      "count": 443,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 126,
+      "count": 130,
       "change_pct": 0
     },
     {
       "city": "Makati",
-      "count": 16,
+      "count": 17,
       "change_pct": 0
     },
     {
@@ -72,11 +72,11 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 421 active listings.",
+    "Manila leads hiring with 443 active listings.",
     "excel is the most in-demand skill across all postings.",
     "32% of listings offer remote or hybrid work.",
-    "Median advertised salary: PHP 62,500–75,000/month."
+    "Median advertised salary: PHP 65,000–75,000/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 733 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 32% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 763 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 32% of roles offer remote flexibility."
 }
