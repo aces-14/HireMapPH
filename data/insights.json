@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-26",
   "fastest_growing_roles": [
     {
       "role": "Accounting Assistant",
@@ -12,7 +12,7 @@
       "city": "Manila"
     },
     {
-      "role": "Lead Data Analyst",
+      "role": "Senior Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -22,12 +22,12 @@
       "city": "Manila"
     },
     {
-      "role": "Senior Data Analyst",
+      "role": "Lead Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "IT Data Analyst Sr (Service Desk Reporting and PowerBI)",
+      "role": "Data Analyst Specialist",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -40,24 +40,24 @@
     "power bi",
     "java",
     "sap",
-    "html",
     "ci/cd",
-    "php"
+    "html",
+    "javascript"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 444,
+      "count": 456,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 114,
+      "count": 121,
       "change_pct": 0
     },
     {
       "city": "Makati",
-      "count": 16,
+      "count": 19,
       "change_pct": 0
     },
     {
@@ -67,16 +67,16 @@
     },
     {
       "city": "Cebu City",
-      "count": 10,
+      "count": 11,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 444 active listings.",
+    "Manila leads hiring with 456 active listings.",
     "excel is the most in-demand skill across all postings.",
-    "32% of listings offer remote or hybrid work.",
+    "31% of listings offer remote or hybrid work.",
     "Median advertised salary: PHP 60,000–75,000/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 742 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 32% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 777 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 31% of roles offer remote flexibility."
 }
