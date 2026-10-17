@@ -22,12 +22,12 @@
       "city": "Manila"
     },
     {
-      "role": "Lead Data Analyst",
+      "role": "Senior Data Analyst (Investor Relations)",
       "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Data Analyst",
+      "role": "Sr. Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -36,23 +36,23 @@
     "excel",
     "sql",
     "python",
-    "agile",
     "power bi",
-    "ci/cd",
+    "agile",
     "java",
+    "ci/cd",
+    "tableau",
     "aws",
-    "azure",
     "git"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 566,
+      "count": 585,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 243,
+      "count": 252,
       "change_pct": 0
     },
     {
@@ -72,11 +72,11 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 566 active listings.",
+    "Manila leads hiring with 585 active listings.",
     "excel is the most in-demand skill across all postings.",
     "34% of listings offer remote or hybrid work.",
     "Median advertised salary: PHP 60,000–77,500/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 1016 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 34% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 1046 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 34% of roles offer remote flexibility."
 }
