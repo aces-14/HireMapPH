@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-10-21",
+  "generated_at": "2026-10-22",
   "fastest_growing_roles": [
     {
       "role": "Marketing Assistant",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Senior Accountant (QBO ProAdvisor) | SOB equivalent to 1 FULL MONTH SALARY",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -13,11 +18,6 @@
     },
     {
       "role": "Accounting Specialist",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Senior Accountant (QBO ProAdvisor) | SOB equivalent to 1 FULL MONTH SALARY",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -38,31 +38,31 @@
     "python",
     "agile",
     "power bi",
-    "ci/cd",
     "java",
-    "tableau",
+    "ci/cd",
     "aws",
+    "tableau",
     "git"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 551,
+      "count": 566,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 239,
+      "count": 243,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 19,
+      "count": 21,
       "change_pct": 0
     },
     {
       "city": "Makati",
-      "count": 13,
+      "count": 15,
       "change_pct": 0
     },
     {
@@ -72,11 +72,11 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 551 active listings.",
+    "Manila leads hiring with 566 active listings.",
     "excel is the most in-demand skill across all postings.",
     "34% of listings offer remote or hybrid work.",
     "Median advertised salary: PHP 60,000–77,500/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 983 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 34% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 1011 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 34% of roles offer remote flexibility."
 }
