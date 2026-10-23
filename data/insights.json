@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22",
+  "generated_at": "2026-10-23",
   "fastest_growing_roles": [
     {
       "role": "Marketing Assistant",
@@ -12,22 +12,22 @@
       "city": "Manila"
     },
     {
-      "role": "Accounting Assistant",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Accounting Specialist",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Data Analyst Intern",
+      "role": "Financial Analyst & General Accountant",
       "change_pct": 0,
       "city": "Manila"
     },
     {
       "role": "Senior Data Analyst (Investor Relations)",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Sr. Data Analyst",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Senior Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -38,21 +38,21 @@
     "python",
     "agile",
     "power bi",
-    "java",
     "ci/cd",
-    "aws",
     "tableau",
-    "git"
+    "java",
+    "git",
+    "aws"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 566,
+      "count": 510,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 243,
+      "count": 226,
       "change_pct": 0
     },
     {
@@ -72,11 +72,11 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 566 active listings.",
+    "Manila leads hiring with 510 active listings.",
     "excel is the most in-demand skill across all postings.",
     "34% of listings offer remote or hybrid work.",
     "Median advertised salary: PHP 60,000–77,500/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 1011 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 34% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 936 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 34% of roles offer remote flexibility."
 }
