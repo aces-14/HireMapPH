@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-11-01",
+  "generated_at": "2026-11-02",
   "fastest_growing_roles": [
     {
       "role": "Marketing Assistant",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Accounting Assistant",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -17,17 +12,22 @@
       "city": "Manila"
     },
     {
+      "role": "Accounting Assistant",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
       "role": "Data Analyst Intern",
       "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Sr. Data Analyst",
+      "role": "Financial Analyst & General Accountant",
       "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Financial Analyst & General Accountant",
+      "role": "Senior Data Analyst (Investor Relations)",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -41,23 +41,23 @@
     "aws",
     "tableau",
     "php",
-    "ci/cd",
-    "azure"
+    "azure",
+    "ci/cd"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 510,
+      "count": 496,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 238,
+      "count": 234,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 19,
+      "count": 18,
       "change_pct": 0
     },
     {
@@ -72,11 +72,11 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 510 active listings.",
+    "Manila leads hiring with 496 active listings.",
     "excel is the most in-demand skill across all postings.",
     "34% of listings offer remote or hybrid work.",
     "Median advertised salary: PHP 57,500–77,500/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 956 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 34% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 945 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 34% of roles offer remote flexibility."
 }
