@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08",
+  "generated_at": "2026-11-09",
   "fastest_growing_roles": [
     {
       "role": "Data Analyst",
@@ -8,11 +8,6 @@
     },
     {
       "role": "Accounting Assistant",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Senior Accountant (QBO ProAdvisor) | SOB equivalent to 1 FULL MONTH SALARY",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -27,7 +22,12 @@
       "city": "Manila"
     },
     {
-      "role": "Data Analyst Intern",
+      "role": "Senior Accountant (QBO ProAdvisor) | SOB equivalent to 1 FULL MONTH SALARY",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Associate Full-stack Software Engineer",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -38,21 +38,21 @@
     "python",
     "power bi",
     "agile",
-    "aws",
     "tableau",
-    "azure",
     "java",
+    "aws",
+    "azure",
     "sap"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 492,
+      "count": 482,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 222,
+      "count": 223,
       "change_pct": 0
     },
     {
@@ -72,11 +72,11 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 492 active listings.",
+    "Manila leads hiring with 482 active listings.",
     "excel is the most in-demand skill across all postings.",
     "35% of listings offer remote or hybrid work.",
-    "Median advertised salary: PHP 47,500–65,000/month."
+    "Median advertised salary: PHP 40,000–55,000/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 935 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 35% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 928 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 35% of roles offer remote flexibility."
 }
