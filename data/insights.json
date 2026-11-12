@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11",
+  "generated_at": "2026-11-12",
   "fastest_growing_roles": [
     {
-      "role": "Digital Marketing Associate",
+      "role": "Marketing Assistant",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -12,7 +12,7 @@
       "city": "Manila"
     },
     {
-      "role": "Marketing Assistant",
+      "role": "Digital Marketing Associate",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -47,12 +47,12 @@
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 480,
+      "count": 488,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 217,
+      "count": 226,
       "change_pct": 0
     },
     {
@@ -72,11 +72,11 @@
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 480 active listings.",
+    "Manila leads hiring with 488 active listings.",
     "excel is the most in-demand skill across all postings.",
     "35% of listings offer remote or hybrid work.",
-    "Median advertised salary: PHP 40,000–55,000/month."
+    "Median advertised salary: PHP 47,500–65,000/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 937 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 35% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 956 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 35% of roles offer remote flexibility."
 }
