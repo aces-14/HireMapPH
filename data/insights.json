@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-11-12",
+  "generated_at": "2026-11-13",
   "fastest_growing_roles": [
     {
-      "role": "Marketing Assistant",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
       "role": "Accounting Assistant",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
-      "role": "Digital Marketing Associate",
       "change_pct": 0,
       "city": "Manila"
     },
@@ -22,12 +12,22 @@
       "city": "Manila"
     },
     {
-      "role": "Senior Accountant (QBO ProAdvisor) | SOB equivalent to 1 FULL MONTH SALARY",
+      "role": "Marketing Assistant",
       "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Senior Data Analyst",
+      "role": "Digital Marketing Associate",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Junior Data Analyst",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Senior Accountant (QBO ProAdvisor) | SOB equivalent to 1 FULL MONTH SALARY",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -47,12 +47,17 @@
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 488,
+      "count": 487,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 226,
+      "count": 220,
+      "change_pct": 0
+    },
+    {
+      "city": "Makati",
+      "count": 19,
       "change_pct": 0
     },
     {
@@ -61,22 +66,17 @@
       "change_pct": 0
     },
     {
-      "city": "Makati",
-      "count": 15,
-      "change_pct": 0
-    },
-    {
       "city": "Cebu",
-      "count": 11,
+      "count": 12,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 488 active listings.",
+    "Manila leads hiring with 487 active listings.",
     "excel is the most in-demand skill across all postings.",
-    "35% of listings offer remote or hybrid work.",
-    "Median advertised salary: PHP 47,500–65,000/month."
+    "36% of listings offer remote or hybrid work.",
+    "Median advertised salary: PHP 55,000–75,000/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 956 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 35% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 954 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 36% of roles offer remote flexibility."
 }
