@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23",
+  "generated_at": "2026-11-24",
   "fastest_growing_roles": [
     {
       "role": "Accounting Assistant",
@@ -17,17 +17,17 @@
       "city": "Manila"
     },
     {
-      "role": "Software Engineer",
-      "change_pct": 0,
-      "city": "Manila"
-    },
-    {
       "role": "Data Analyst / BI Developer",
       "change_pct": 0,
       "city": "Manila"
     },
     {
       "role": "Associate Full-stack Software Engineer",
+      "change_pct": 0,
+      "city": "Manila"
+    },
+    {
+      "role": "Software Engineer",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -39,44 +39,44 @@
     "python",
     "agile",
     "java",
-    "tableau",
     "azure",
+    "tableau",
     "sap",
     "aws"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 457,
+      "count": 447,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 240,
+      "count": 233,
       "change_pct": 0
     },
     {
       "city": "Makati",
-      "count": 21,
+      "count": 22,
+      "change_pct": 0
+    },
+    {
+      "city": "Pasig",
+      "count": 11,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 13,
-      "change_pct": 0
-    },
-    {
-      "city": "Cebu",
-      "count": 10,
+      "count": 11,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 457 active listings.",
+    "Manila leads hiring with 447 active listings.",
     "excel is the most in-demand skill across all postings.",
     "36% of listings offer remote or hybrid work.",
-    "Median advertised salary: PHP 47,500–65,000/month."
+    "Median advertised salary: PHP 52,500–77,500/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 938 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 36% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 923 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 36% of roles offer remote flexibility."
 }
