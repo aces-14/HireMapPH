@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24",
+  "generated_at": "2026-11-25",
   "fastest_growing_roles": [
     {
       "role": "Accounting Assistant",
@@ -22,12 +22,12 @@
       "city": "Manila"
     },
     {
-      "role": "Associate Full-stack Software Engineer",
+      "role": "Junior Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     },
     {
-      "role": "Software Engineer",
+      "role": "Senior Data Analyst",
       "change_pct": 0,
       "city": "Manila"
     }
@@ -39,20 +39,20 @@
     "python",
     "agile",
     "java",
-    "azure",
     "tableau",
+    "azure",
     "sap",
-    "aws"
+    "javascript"
   ],
   "top_hiring_cities": [
     {
       "city": "Manila",
-      "count": 447,
+      "count": 437,
       "change_pct": 0
     },
     {
       "city": "Philippines",
-      "count": 233,
+      "count": 228,
       "change_pct": 0
     },
     {
@@ -62,21 +62,21 @@
     },
     {
       "city": "Pasig",
-      "count": 11,
+      "count": 13,
       "change_pct": 0
     },
     {
       "city": "Cebu City",
-      "count": 11,
+      "count": 9,
       "change_pct": 0
     }
   ],
   "notable_shifts": [
-    "Manila leads hiring with 447 active listings.",
+    "Manila leads hiring with 437 active listings.",
     "excel is the most in-demand skill across all postings.",
     "36% of listings offer remote or hybrid work.",
-    "Median advertised salary: PHP 52,500–77,500/month."
+    "Median advertised salary: PHP 50,000–75,000/month."
   ],
   "salary_highlights": [],
-  "summary_text": "The Philippine job market currently has 923 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 36% of roles offer remote flexibility."
+  "summary_text": "The Philippine job market currently has 907 active listings. Manila dominates with the most openings, while excel remains the most sought-after skill. 36% of roles offer remote flexibility."
 }
